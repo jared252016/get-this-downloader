@@ -1,0 +1,3674 @@
+[
+    {
+        "service": "bravotv",
+        "website": "bravotv.com",
+        "favicon": "static/images/favicons/favicon-bravotv.png",
+        "title": "Bravo TV Official Site"
+    },
+    {
+        "service": "cda",
+        "website": "cdacouncil.org",
+        "favicon": "static/images/favicons/favicon-cda.png",
+        "title": "CDA Council"
+    },
+    {
+        "service": "ciscowebex",
+        "website": "webex.com",
+        "favicon": "static/images/favicons/favicon-ciscowebex.png",
+        "title": "Cisco Web Ex"
+    },
+    {
+        "service": "cloudycdn",
+        "website": "cloud.google.com",
+        "favicon": "static/images/favicons/favicon-cloudycdn.png",
+        "title": "Cloudy CDN"
+    },
+    {
+        "service": "clyp",
+        "website": "clyp.it",
+        "favicon": "static/images/favicons/favicon-clyp.png",
+        "title": "C Ly P"
+    },
+    {
+        "service": "commonprotocols",
+        "website": "techtarget.com",
+        "favicon": "static/images/favicons/favicon-commonprotocols.png",
+        "title": "Common Protocols"
+    },
+    {
+        "service": "condenast",
+        "website": "condenast.com",
+        "favicon": "static/images/favicons/favicon-condenast.png",
+        "title": "Conde Nast"
+    },
+    {
+        "service": "contv",
+        "website": "contv.com",
+        "favicon": "static/images/favicons/favicon-contv.png",
+        "title": "Midnightpulp"
+    },
+    {
+        "service": "corus",
+        "website": "corusent.com",
+        "favicon": "static/images/favicons/favicon-corus.png",
+        "title": "Corus"
+    },
+    {
+        "service": "cozytv",
+        "website": "cozy.tv",
+        "favicon": "static/images/favicons/favicon-cozytv.png",
+        "title": "Cozy Tv"
+    },
+    {
+        "service": "cracked",
+        "website": "cracked.com",
+        "favicon": "static/images/favicons/favicon-cracked.png",
+        "title": "Cracked"
+    },
+    {
+        "service": "craftsy",
+        "website": "craftsy.com",
+        "favicon": "static/images/favicons/favicon-craftsy.png",
+        "title": "Crafts Y"
+    },
+    {
+        "service": "crooksandliars",
+        "website": "crooksandliars.com",
+        "favicon": "static/images/favicons/favicon-crooksandliars.png",
+        "title": "Crooks And Liars"
+    },
+    {
+        "service": "crowdbunker",
+        "website": "crowdbunker.com",
+        "favicon": "static/images/favicons/favicon-crowdbunker.png",
+        "title": "Crowd Bunker"
+    },
+    {
+        "service": "ctsnews",
+        "website": "cts1.com",
+        "favicon": "static/images/favicons/favicon-ctsnews.png",
+        "title": "Ct S News"
+    },
+    {
+        "service": "cultureunplugged",
+        "website": "cultureunplugged.com",
+        "favicon": "static/images/favicons/favicon-cultureunplugged.png",
+        "title": "Culture Unplugged"
+    },
+    {
+        "service": "curiositystream",
+        "website": "curiositystream.com",
+        "favicon": "static/images/favicons/favicon-curiositystream.png",
+        "title": "Curiosity Stream"
+    },
+    {
+        "service": "cwtv",
+        "website": "cwtv.com",
+        "favicon": "static/images/favicons/favicon-cwtv.png",
+        "title": "The CW Network"
+    },
+    {
+        "service": "cybrary",
+        "website": "cybrary.com",
+        "favicon": "static/images/favicons/favicon-cybrary.png",
+        "title": "Cy Bra Ry"
+    },
+    {
+        "service": "dacast",
+        "website": "dacast.com",
+        "favicon": "static/images/favicons/favicon-dacast.png",
+        "title": "Da Cast"
+    },
+    {
+        "service": "dailymotion",
+        "website": "dailymotion.com",
+        "favicon": "static/images/favicons/favicon-dailymotion.png",
+        "title": "Dailymotion"
+    },
+    {
+        "service": "daum",
+        "website": "daum.com",
+        "favicon": "static/images/favicons/favicon-daum.png",
+        "title": "Daum"
+    },
+    {
+        "service": "daystar",
+        "website": "daystar.com",
+        "favicon": "static/images/favicons/favicon-daystar.png",
+        "title": "Day Star"
+    },
+    {
+        "service": "dbtv",
+        "website": "dbtv.com",
+        "favicon": "static/images/favicons/favicon-dbtv.png",
+        "title": "dBTV"
+    },
+    {
+        "service": "deezer",
+        "website": "deezer.com",
+        "favicon": "static/images/favicons/favicon-deezer.png",
+        "title": "Deezer"
+    },
+    {
+        "service": "detik",
+        "website": "detik.com",
+        "favicon": "static/images/favicons/favicon-detik.png",
+        "title": "detikcom"
+    },
+    {
+        "service": "dfb",
+        "website": "dfb.com",
+        "favicon": "static/images/favicons/favicon-dfb.png",
+        "title": "Dfb"
+    },
+    {
+        "service": "digitalconcerthall",
+        "website": "digitalconcerthall.com",
+        "favicon": "static/images/favicons/favicon-digitalconcerthall.png",
+        "title": "Digital Concert Hall"
+    },
+    {
+        "service": "digiteka",
+        "website": "digiteka.com",
+        "favicon": "static/images/favicons/favicon-digiteka.png",
+        "title": "Digit Eka"
+    },
+    {
+        "service": "disney",
+        "website": "disney.com",
+        "favicon": "static/images/favicons/favicon-disney.png",
+        "title": "Disney"
+    },
+    {
+        "service": "dispeak",
+        "website": "github.com",
+        "favicon": "static/images/favicons/favicon-dispeak.png",
+        "title": "Di Speak"
+    },
+    {
+        "service": "dlf",
+        "website": "dlf.com",
+        "favicon": "static/images/favicons/favicon-dlf.png",
+        "title": "D Lf"
+    },
+    {
+        "service": "dlive",
+        "website": "dlive.com",
+        "favicon": "static/images/favicons/favicon-dlive.png",
+        "title": "DLive"
+    },
+    {
+        "service": "douyutv",
+        "website": "douyu.com",
+        "favicon": "static/images/favicons/favicon-douyutv.png",
+        "title": "\u6597\u9c7c"
+    },
+    {
+        "service": "dplay",
+        "website": "discoveryplus.com",
+        "favicon": "static/images/favicons/favicon-dplay.png",
+        "title": "discovery+"
+    },
+    {
+        "service": "drbonanza",
+        "website": "dr.dk",
+        "favicon": "static/images/favicons/favicon-drbonanza.png",
+        "title": "Bonanza lukker"
+    },
+    {
+        "service": "dreisat",
+        "website": "3sat.de",
+        "favicon": "static/images/favicons/favicon-dreisat.png",
+        "title": "Dre Is At"
+    },
+    {
+        "service": "drooble",
+        "website": "x.com",
+        "favicon": "static/images/favicons/favicon-drooble.png",
+        "title": "D Roo Ble"
+    },
+    {
+        "service": "dropbox",
+        "website": "dropbox.com",
+        "favicon": "static/images/favicons/favicon-dropbox.png",
+        "title": "Dropbox.com"
+    },
+    {
+        "service": "drtalks",
+        "website": "drtalks.com",
+        "favicon": "static/images/favicons/favicon-drtalks.png",
+        "title": "Dr Talks"
+    },
+    {
+        "service": "drtuber",
+        "website": "drtuber.com",
+        "favicon": "static/images/favicons/favicon-drtuber.png",
+        "title": "DrTuber.com"
+    },
+    {
+        "service": "drtv",
+        "website": "dr.dk",
+        "favicon": "static/images/favicons/favicon-drtv.png",
+        "title": "DRTV"
+    },
+    {
+        "service": "dtube",
+        "website": "dtube.com",
+        "favicon": "static/images/favicons/favicon-dtube.png",
+        "title": "D Tube"
+    },
+    {
+        "service": "dw",
+        "website": "dw.com",
+        "favicon": "static/images/favicons/favicon-dw.png",
+        "title": "DW"
+    },
+    {
+        "service": "ebaumsworld",
+        "website": "ebaumsworld.com",
+        "favicon": "static/images/favicons/favicon-ebaumsworld.png",
+        "title": "eBaum's World"
+    },
+    {
+        "service": "ebay",
+        "website": "ebay.com",
+        "favicon": "static/images/favicons/favicon-ebay.png",
+        "title": "eBay"
+    },
+    {
+        "service": "egghead",
+        "website": "egghead.io",
+        "favicon": "static/images/favicons/favicon-egghead.png",
+        "title": "EggHead"
+    },
+    {
+        "service": "eitb",
+        "website": "eitb.eus",
+        "favicon": "static/images/favicons/favicon-eitb.png",
+        "title": "E It B"
+    },
+    {
+        "service": "elonet",
+        "website": "elonet.finna.fi",
+        "favicon": "static/images/favicons/favicon-elonet.png",
+        "title": "Elo Net"
+    },
+    {
+        "service": "elpais",
+        "website": "elpais.com",
+        "favicon": "static/images/favicons/favicon-elpais.png",
+        "title": "EL PA\u00cdS Edici\u00f3n US"
+    },
+    {
+        "service": "eltrecetv",
+        "website": "eltrecetv.com",
+        "favicon": "static/images/favicons/favicon-eltrecetv.png",
+        "title": "eltrece en VIVO"
+    },
+    {
+        "service": "embedly",
+        "website": "embed.ly",
+        "favicon": "static/images/favicons/favicon-embedly.png",
+        "title": "Embed Ly"
+    },
+    {
+        "service": "epicon",
+        "website": "epicon.com",
+        "favicon": "static/images/favicons/favicon-epicon.png",
+        "title": "Epic On"
+    },
+    {
+        "service": "epidemicsound",
+        "website": "EpidemicSound.com",
+        "favicon": "static/images/favicons/favicon-epidemicsound.png",
+        "title": "Epidemic Sound"
+    },
+    {
+        "service": "eplus",
+        "website": "eplus.com",
+        "favicon": "static/images/favicons/favicon-eplus.png",
+        "title": "ePlus"
+    },
+    {
+        "service": "eporner",
+        "website": "eporner.com",
+        "favicon": "static/images/favicons/favicon-eporner.png",
+        "title": "Eporner"
+    },
+    {
+        "service": "eroprofile",
+        "website": "eroprofile.com",
+        "favicon": "static/images/favicons/favicon-eroprofile.png",
+        "title": "EroProfile"
+    },
+    {
+        "service": "ettutv",
+        "website": "ettutv.stupaevents.com",
+        "favicon": "static/images/favicons/favicon-ettutv.png",
+        "title": "Ett U Tv"
+    },
+    {
+        "service": "europa",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-europa.png",
+        "title": "Europa"
+    },
+    {
+        "service": "euscreen",
+        "website": "euscreen.eu",
+        "favicon": "static/images/favicons/favicon-euscreen.png",
+        "title": "Eu Screen"
+    },
+    {
+        "service": "expressen",
+        "website": "expressen.com",
+        "favicon": "static/images/favicons/favicon-expressen.png",
+        "title": "Nyheter"
+    },
+    {
+        "service": "extractors",
+        "website": "tennantco.com",
+        "favicon": "static/images/favicons/favicon-extractors.png",
+        "title": "Carpet Extractors"
+    },
+    {
+        "service": "eyedotv",
+        "website": "eyedo.tv",
+        "favicon": "static/images/favicons/favicon-eyedotv.png",
+        "title": "Eyed Otv"
+    },
+    {
+        "service": "facebook",
+        "website": "facebook.com",
+        "favicon": "static/images/favicons/favicon-facebook.png",
+        "title": "Facebook"
+    },
+    {
+        "service": "fathom",
+        "website": "fathom.com",
+        "favicon": "static/images/favicons/favicon-fathom.png",
+        "title": "Fathom"
+    },
+    {
+        "service": "fc2",
+        "website": "fc2.com",
+        "favicon": "static/images/favicons/favicon-fc2.png",
+        "title": "FC2"
+    },
+    {
+        "service": "fczenit",
+        "website": "en.fc-zenit.ru",
+        "favicon": "static/images/favicons/favicon-fczenit.png",
+        "title": "Fc Zenit"
+    },
+    {
+        "service": "fifa",
+        "website": "fifa.com",
+        "favicon": "static/images/favicons/favicon-fifa.png",
+        "title": "FIFA"
+    },
+    {
+        "service": "filmon",
+        "website": "filmon.com",
+        "favicon": "static/images/favicons/favicon-filmon.png",
+        "title": "FILMON"
+    },
+    {
+        "service": "filmweb",
+        "website": "filmweb.pl",
+        "favicon": "static/images/favicons/favicon-filmweb.png",
+        "title": "Film Web"
+    },
+    {
+        "service": "firsttv",
+        "website": "1tv.com",
+        "favicon": "static/images/favicons/favicon-firsttv.png",
+        "title": "First Tv"
+    },
+    {
+        "service": "fivetv",
+        "website": "amazon.com",
+        "favicon": "static/images/favicons/favicon-fivetv.png",
+        "title": "Five Tv"
+    },
+    {
+        "service": "flickr",
+        "website": "flickr.com",
+        "favicon": "static/images/favicons/favicon-flickr.png",
+        "title": "Flickr"
+    },
+    {
+        "service": "folketinget",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-folketinget.png",
+        "title": "Folk Etin Get"
+    },
+    {
+        "service": "footyroom",
+        "website": "footyroom.com",
+        "favicon": "static/images/favicons/favicon-footyroom.png",
+        "title": "FootyRoom"
+    },
+    {
+        "service": "formula1",
+        "website": "formula1.com",
+        "favicon": "static/images/favicons/favicon-formula1.png",
+        "title": "F1"
+    },
+    {
+        "service": "fourtube",
+        "website": "github.com",
+        "favicon": "static/images/favicons/favicon-fourtube.png",
+        "title": "Four Tube"
+    },
+    {
+        "service": "fox",
+        "website": "fox.com",
+        "favicon": "static/images/favicons/favicon-fox.png",
+        "title": "FOX Broadcasting Company"
+    },
+    {
+        "service": "fox9",
+        "website": "fox9.com",
+        "favicon": "static/images/favicons/favicon-fox9.png",
+        "title": "FOX 9 Minneapolis-St. Paul"
+    },
+    {
+        "service": "foxnews",
+        "website": "foxnews.com",
+        "favicon": "static/images/favicons/favicon-foxnews.png",
+        "title": "Fox News"
+    },
+    {
+        "service": "foxsports",
+        "website": "foxsports.com",
+        "favicon": "static/images/favicons/favicon-foxsports.png",
+        "title": "Fox Sports"
+    },
+    {
+        "service": "fptplay",
+        "website": "fptplay.vn",
+        "favicon": "static/images/favicons/favicon-fptplay.png",
+        "title": "FPT Play"
+    },
+    {
+        "service": "franceinter",
+        "website": "radiofrance.fr",
+        "favicon": "static/images/favicons/favicon-franceinter.png",
+        "title": "France Inter"
+    },
+    {
+        "service": "francetv",
+        "website": "france.tv",
+        "favicon": "static/images/favicons/favicon-francetv.png",
+        "title": "France Tv"
+    },
+    {
+        "service": "freesound",
+        "website": "freesound.org",
+        "favicon": "static/images/favicons/favicon-freesound.png",
+        "title": "Free Sound"
+    },
+    {
+        "service": "freespeech",
+        "website": "freespeech.com",
+        "favicon": "static/images/favicons/favicon-freespeech.png",
+        "title": "Free Speech"
+    },
+    {
+        "service": "freetv",
+        "website": "freetv.com",
+        "favicon": "static/images/favicons/favicon-freetv.png",
+        "title": "Freetv"
+    },
+    {
+        "service": "frontendmasters",
+        "website": "frontendmasters.com",
+        "favicon": "static/images/favicons/favicon-frontendmasters.png",
+        "title": "Frontend Masters"
+    },
+    {
+        "service": "funk",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-funk.png",
+        "title": "Funk"
+    },
+    {
+        "service": "funker530",
+        "website": "funker530.com",
+        "favicon": "static/images/favicons/favicon-funker530.png",
+        "title": "FUNKER530"
+    },
+    {
+        "service": "fuyintv",
+        "website": "fuyin.tv",
+        "favicon": "static/images/favicons/favicon-fuyintv.png",
+        "title": "\u798f\u97f3\u5f71\u89c6\u7f51|\u798f\u97f3TV|\u57fa\u7763\u6559\u5f71\u89c6\u7f51"
+    },
+    {
+        "service": "gaia",
+        "website": "gaia.com",
+        "favicon": "static/images/favicons/favicon-gaia.png",
+        "title": "Gaia"
+    },
+    {
+        "service": "gamejolt",
+        "website": "gamejolt.com",
+        "favicon": "static/images/favicons/favicon-gamejolt.png",
+        "title": "Game Jolt"
+    },
+    {
+        "service": "gamespot",
+        "website": "gamespot.com",
+        "favicon": "static/images/favicons/favicon-gamespot.png",
+        "title": "GameSpot"
+    },
+    {
+        "service": "gamestar",
+        "website": "gamestar.com",
+        "favicon": "static/images/favicons/favicon-gamestar.png",
+        "title": "Gamestar"
+    },
+    {
+        "service": "gazeta",
+        "website": "gazeta.pl",
+        "favicon": "static/images/favicons/favicon-gazeta.png",
+        "title": "Gazeta"
+    },
+    {
+        "service": "gbnews",
+        "website": "gbnews.com",
+        "favicon": "static/images/favicons/favicon-gbnews.png",
+        "title": "Gb News"
+    },
+    {
+        "service": "gdcvault",
+        "website": "gdcvault.com",
+        "favicon": "static/images/favicons/favicon-gdcvault.png",
+        "title": "GDC Vault"
+    },
+    {
+        "service": "generic",
+        "website": "generic.com",
+        "favicon": "static/images/favicons/favicon-generic.png",
+        "title": "Generic"
+    },
+    {
+        "service": "genericembeds",
+        "website": "help.naavi.com",
+        "favicon": "static/images/favicons/favicon-genericembeds.png",
+        "title": "Generic Embeds"
+    },
+    {
+        "service": "genius",
+        "website": "genius.com",
+        "favicon": "static/images/favicons/favicon-genius.png",
+        "title": "Genius"
+    },
+    {
+        "service": "germanupa",
+        "website": "germanupa.de",
+        "favicon": "static/images/favicons/favicon-germanupa.png",
+        "title": "German Up A"
+    },
+    {
+        "service": "gettr",
+        "website": "gettr.com",
+        "favicon": "static/images/favicons/favicon-gettr.png",
+        "title": "GETTR"
+    },
+    {
+        "service": "giantbomb",
+        "website": "giantbomb.com",
+        "favicon": "static/images/favicons/favicon-giantbomb.png",
+        "title": "Giant Bomb"
+    },
+    {
+        "service": "glide",
+        "website": "glide.com",
+        "favicon": "static/images/favicons/favicon-glide.png",
+        "title": "Glide"
+    },
+    {
+        "service": "globalplayer",
+        "website": "globalplayer.com",
+        "favicon": "static/images/favicons/favicon-globalplayer.png",
+        "title": "Global Player"
+    },
+    {
+        "service": "globo",
+        "website": "globo.com",
+        "favicon": "static/images/favicons/favicon-globo.png",
+        "title": "Globo"
+    },
+    {
+        "service": "glomex",
+        "website": "glomex.com",
+        "favicon": "static/images/favicons/favicon-glomex.png",
+        "title": "glomex"
+    },
+    {
+        "service": "go",
+        "website": "go.com",
+        "favicon": "static/images/favicons/favicon-go.png",
+        "title": "Go.com"
+    },
+    {
+        "service": "godresource",
+        "website": "godresource.com",
+        "favicon": "static/images/favicons/favicon-godresource.png",
+        "title": "GodResource"
+    },
+    {
+        "service": "godtube",
+        "website": "godtube.com",
+        "favicon": "static/images/favicons/favicon-godtube.png",
+        "title": "God Tube"
+    },
+    {
+        "service": "golem",
+        "website": "golem.com",
+        "favicon": "static/images/favicons/favicon-golem.png",
+        "title": "Go Lem"
+    },
+    {
+        "service": "goodgame",
+        "website": "goodgamestudios.com",
+        "favicon": "static/images/favicons/favicon-goodgame.png",
+        "title": "Good Game"
+    },
+    {
+        "service": "googledrive",
+        "website": "workspace.google.com",
+        "favicon": "static/images/favicons/favicon-googledrive.png",
+        "title": "Google Drive"
+    },
+    {
+        "service": "googlepodcasts",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-googlepodcasts.png",
+        "title": "Google Podcasts"
+    },
+    {
+        "service": "googlesearch",
+        "website": "google.com",
+        "favicon": "static/images/favicons/favicon-googlesearch.png",
+        "title": "Google Search"
+    },
+    {
+        "service": "goplay",
+        "website": "goplayri.com",
+        "favicon": "static/images/favicons/favicon-goplay.png",
+        "title": "Go Play"
+    },
+    {
+        "service": "gopro",
+        "website": "gopro.com",
+        "favicon": "static/images/favicons/favicon-gopro.png",
+        "title": "GoPro"
+    },
+    {
+        "service": "gotostage",
+        "website": "gotostage.com",
+        "favicon": "static/images/favicons/favicon-gotostage.png",
+        "title": "GoToStage.com"
+    },
+    {
+        "service": "graspop",
+        "website": "graspop.com",
+        "favicon": "static/images/favicons/favicon-graspop.png",
+        "title": "Gras Pop"
+    },
+    {
+        "service": "gronkh",
+        "website": "gronkh.com",
+        "favicon": "static/images/favicons/favicon-gronkh.png",
+        "title": "Gronkh"
+    },
+    {
+        "service": "harpodeon",
+        "website": "harpodeon.com",
+        "favicon": "static/images/favicons/favicon-harpodeon.png",
+        "title": "Harp Odeon"
+    },
+    {
+        "service": "hbo",
+        "website": "hbo.com",
+        "favicon": "static/images/favicons/favicon-hbo.png",
+        "title": "HBO"
+    },
+    {
+        "service": "hearthisat",
+        "website": "hearthis.at",
+        "favicon": "static/images/favicons/favicon-hearthisat.png",
+        "title": "hearthis.at"
+    },
+    {
+        "service": "hellporno",
+        "website": "hellporno.com",
+        "favicon": "static/images/favicons/favicon-hellporno.png",
+        "title": "Hell Porno"
+    },
+    {
+        "service": "hgtv",
+        "website": "hgtv.com",
+        "favicon": "static/images/favicons/favicon-hgtv.png",
+        "title": "HG TV"
+    },
+    {
+        "service": "hidive",
+        "website": "hidive.com",
+        "favicon": "static/images/favicons/favicon-hidive.png",
+        "title": "Hi Dive"
+    },
+    {
+        "service": "historicfilms",
+        "website": "historicfilms.com",
+        "favicon": "static/images/favicons/favicon-historicfilms.png",
+        "title": "Historic Films"
+    },
+    {
+        "service": "hitrecord",
+        "website": "hitrecord.org",
+        "favicon": "static/images/favicons/favicon-hitrecord.png",
+        "title": "HITRECORD"
+    },
+    {
+        "service": "hketv",
+        "website": "emm.edcity.hk",
+        "favicon": "static/images/favicons/favicon-hketv.png",
+        "title": "Hk Etv"
+    },
+    {
+        "service": "hollywoodreporter",
+        "website": "hollywoodreporter.com",
+        "favicon": "static/images/favicons/favicon-hollywoodreporter.png",
+        "title": "Hollywood Reporter"
+    },
+    {
+        "service": "holodex",
+        "website": "holodex.net",
+        "favicon": "static/images/favicons/favicon-holodex.png",
+        "title": "Holodex"
+    },
+    {
+        "service": "hotnewhiphop",
+        "website": "hotnewhiphop.com",
+        "favicon": "static/images/favicons/favicon-hotnewhiphop.png",
+        "title": "HotNewHipHop"
+    },
+    {
+        "service": "hotstar",
+        "website": "hotstar.com",
+        "favicon": "static/images/favicons/favicon-hotstar.png",
+        "title": "Hotstar"
+    },
+    {
+        "service": "hrefli",
+        "website": "stackoverflow.com",
+        "favicon": "static/images/favicons/favicon-hrefli.png",
+        "title": "Hrefil"
+    },
+    {
+        "service": "hrfensehen",
+        "website": "hr-fernsehen.de",
+        "favicon": "static/images/favicons/favicon-hrfensehen.png",
+        "title": "HrFensehen"
+    },
+    {
+        "service": "hrti",
+        "website": "hrti.com",
+        "favicon": "static/images/favicons/favicon-hrti.png",
+        "title": "Hrt I"
+    },
+    {
+        "service": "hse",
+        "website": "hse.com",
+        "favicon": "static/images/favicons/favicon-hse.png",
+        "title": "HSE"
+    },
+    {
+        "service": "huajiao",
+        "website": "huajiao.com",
+        "favicon": "static/images/favicons/favicon-huajiao.png",
+        "title": "Hua Jiao"
+    },
+    {
+        "service": "huffpost",
+        "website": "huffpost.com",
+        "favicon": "static/images/favicons/favicon-huffpost.png",
+        "title": "HuffPost"
+    },
+    {
+        "service": "hungama",
+        "website": "hungama.com",
+        "favicon": "static/images/favicons/favicon-hungama.png",
+        "title": "Hungama"
+    },
+    {
+        "service": "hypem",
+        "website": "hypem.com",
+        "favicon": "static/images/favicons/favicon-hypem.png",
+        "title": "Hype M"
+    },
+    {
+        "service": "hypergryph",
+        "website": "hypergryph.com",
+        "favicon": "static/images/favicons/favicon-hypergryph.png",
+        "title": "HYPERGRYPH"
+    },
+    {
+        "service": "hytale",
+        "website": "hytale.com",
+        "favicon": "static/images/favicons/favicon-hytale.png",
+        "title": "Hytale"
+    },
+    {
+        "service": "ichinanalive",
+        "website": "salsa.debian.org",
+        "favicon": "static/images/favicons/favicon-ichinanalive.png",
+        "title": "Ich In An Alive"
+    },
+    {
+        "service": "iheart",
+        "website": "iheart.com",
+        "favicon": "static/images/favicons/favicon-iheart.png",
+        "title": "iHeart"
+    },
+    {
+        "service": "ilpost",
+        "website": "ilpost.it",
+        "favicon": "static/images/favicons/favicon-ilpost.png",
+        "title": "Il Post"
+    },
+    {
+        "service": "iltalehti",
+        "website": "iltalehti.com",
+        "favicon": "static/images/favicons/favicon-iltalehti.png",
+        "title": "Ilta Leh Ti"
+    },
+    {
+        "service": "imdb",
+        "website": "imdb.com",
+        "favicon": "static/images/favicons/favicon-imdb.png",
+        "title": "Imdb"
+    },
+    {
+        "service": "ina",
+        "website": "uscis.gov",
+        "favicon": "static/images/favicons/favicon-ina.png",
+        "title": "Immigration and Nationality Act"
+    },
+    {
+        "service": "inc",
+        "website": "inc.com",
+        "favicon": "static/images/favicons/favicon-inc.png",
+        "title": "Inc. Magazine"
+    },
+    {
+        "service": "infoq",
+        "website": "infoq.com",
+        "favicon": "static/images/favicons/favicon-infoq.png",
+        "title": "InfoQ"
+    },
+    {
+        "service": "instagram",
+        "website": "instagram.com",
+        "favicon": "static/images/favicons/favicon-instagram.png",
+        "title": "Instagram"
+    },
+    {
+        "service": "internetvideoarchive",
+        "website": "internetvideoarchive.com",
+        "favicon": "static/images/favicons/favicon-internetvideoarchive.png",
+        "title": "Internet Video Archive"
+    },
+    {
+        "service": "iprima",
+        "website": "iprima.cz",
+        "favicon": "static/images/favicons/favicon-iprima.png",
+        "title": "I Prima"
+    },
+    {
+        "service": "iqiyi",
+        "website": "iqiyi.com",
+        "favicon": "static/images/favicons/favicon-iqiyi.png",
+        "title": "iqiyi"
+    },
+    {
+        "service": "islamchannel",
+        "website": "islamchannel.tv",
+        "favicon": "static/images/favicons/favicon-islamchannel.png",
+        "title": "Islam Channel"
+    },
+    {
+        "service": "israelnationalnews",
+        "website": "israelnationalnews.com",
+        "favicon": "static/images/favicons/favicon-israelnationalnews.png",
+        "title": "Israel National News"
+    },
+    {
+        "service": "iwara",
+        "website": "iwara.tv",
+        "favicon": "static/images/favicons/favicon-iwara.png",
+        "title": "I War A"
+    },
+    {
+        "service": "ixigua",
+        "website": "ixigua.com",
+        "favicon": "static/images/favicons/favicon-ixigua.png",
+        "title": "\u897f\u74dc\u89c6\u9891"
+    },
+    {
+        "service": "izlesene",
+        "website": "izlesene.com",
+        "favicon": "static/images/favicons/favicon-izlesene.png",
+        "title": "\u0130zlesene.com"
+    },
+    {
+        "service": "jamendo",
+        "website": "jamendo.com",
+        "favicon": "static/images/favicons/favicon-jamendo.png",
+        "title": "Jam Endo"
+    },
+    {
+        "service": "japandiet",
+        "website": "japandiet.com",
+        "favicon": "static/images/favicons/favicon-japandiet.png",
+        "title": "Japan Diet"
+    },
+    {
+        "service": "jiocinema",
+        "website": "jiocinema.com",
+        "favicon": "static/images/favicons/favicon-jiocinema.png",
+        "title": "JioCinema"
+    },
+    {
+        "service": "jiosaavn",
+        "website": "jiosaavn.com",
+        "favicon": "static/images/favicons/favicon-jiosaavn.png",
+        "title": "JioSaavn"
+    },
+    {
+        "service": "jixie",
+        "website": "newsroom.accenture.com",
+        "favicon": "static/images/favicons/favicon-jixie.png",
+        "title": "Jixie"
+    },
+    {
+        "service": "jove",
+        "website": "jove.com",
+        "favicon": "static/images/favicons/favicon-jove.png",
+        "title": "Jove"
+    },
+    {
+        "service": "jstream",
+        "website": "jewishmusicstream.com",
+        "favicon": "static/images/favicons/favicon-jstream.png",
+        "title": "J Stream"
+    },
+    {
+        "service": "jtbc",
+        "website": "jtbc.co.kr",
+        "favicon": "static/images/favicons/favicon-jtbc.png",
+        "title": "Jt Bc"
+    },
+    {
+        "service": "kankanews",
+        "website": "kankanews.com",
+        "favicon": "static/images/favicons/favicon-kankanews.png",
+        "title": "\u770b\u770b\u65b0\u95fb\u7f51_\u53e9\u51fb\u65f6\u4ee3"
+    },
+    {
+        "service": "karaoketv",
+        "website": "karaoketv.co.il",
+        "favicon": "static/images/favicons/favicon-karaoketv.png",
+        "title": "\u05e7\u05e8\u05d9\u05d5\u05e7\u05d9 TV"
+    },
+    {
+        "service": "khanacademy",
+        "website": "khanacademy.com",
+        "favicon": "static/images/favicons/favicon-khanacademy.png",
+        "title": "Khan Academy"
+    },
+    {
+        "service": "kicker",
+        "website": "kicker.com",
+        "favicon": "static/images/favicons/favicon-kicker.png",
+        "title": "KICKER\u00ae"
+    },
+    {
+        "service": "kika",
+        "website": "imdb.com",
+        "favicon": "static/images/favicons/favicon-kika.png",
+        "title": "K Ika"
+    },
+    {
+        "service": "kinja",
+        "website": "kinja.com",
+        "favicon": "static/images/favicons/favicon-kinja.png",
+        "title": "Kinj A"
+    },
+    {
+        "service": "kinopoisk",
+        "website": "kinopoisk.ru",
+        "favicon": "static/images/favicons/favicon-kinopoisk.png",
+        "title": "Kinopoisk"
+    },
+    {
+        "service": "kommunetv",
+        "website": "kommune-tv.dk",
+        "favicon": "static/images/favicons/favicon-kommunetv.png",
+        "title": "Kommune TV"
+    },
+    {
+        "service": "koo",
+        "website": "koo.com",
+        "favicon": "static/images/favicons/favicon-koo.png",
+        "title": "Koo"
+    },
+    {
+        "service": "krasview",
+        "website": "hlamer.ru",
+        "favicon": "static/images/favicons/favicon-krasview.png",
+        "title": "Krasview"
+    },
+    {
+        "service": "laracasts",
+        "website": "laracasts.com",
+        "favicon": "static/images/favicons/favicon-laracasts.png",
+        "title": "Lara Casts"
+    },
+    {
+        "service": "lastfm",
+        "website": "last.fm",
+        "favicon": "static/images/favicons/favicon-lastfm.png",
+        "title": "Last Fm"
+    },
+    {
+        "service": "laxarxames",
+        "website": "laxarxames.cat",
+        "favicon": "static/images/favicons/favicon-laxarxames.png",
+        "title": "La Xarxa+"
+    },
+    {
+        "service": "lbry",
+        "website": "LBRY.com",
+        "favicon": "static/images/favicons/favicon-lbry.png",
+        "title": "Lb Ry"
+    },
+    {
+        "service": "lci",
+        "website": "lcindustries.com",
+        "favicon": "static/images/favicons/favicon-lci.png",
+        "title": "Lc I"
+    },
+    {
+        "service": "lcp",
+        "website": "lcp.com",
+        "favicon": "static/images/favicons/favicon-lcp.png",
+        "title": "L Cp"
+    },
+    {
+        "service": "lecture2go",
+        "website": "lecture2go.uni-hamburg.de",
+        "favicon": "static/images/favicons/favicon-lecture2go.png",
+        "title": "Lecture2Go"
+    },
+    {
+        "service": "lecturio",
+        "website": "lecturio.com",
+        "favicon": "static/images/favicons/favicon-lecturio.png",
+        "title": "Lect U Rio"
+    },
+    {
+        "service": "leeco",
+        "website": "leecosteel.com",
+        "favicon": "static/images/favicons/favicon-leeco.png",
+        "title": "Lee Co"
+    },
+    {
+        "service": "lefigaro",
+        "website": "lefigaro.fr",
+        "favicon": "static/images/favicons/favicon-lefigaro.png",
+        "title": "Le Figaro"
+    },
+    {
+        "service": "lemonde",
+        "website": "lemonde.fr",
+        "favicon": "static/images/favicons/favicon-lemonde.png",
+        "title": "Le Monde.fr"
+    },
+    {
+        "service": "lenta",
+        "website": "lenta.ru",
+        "favicon": "static/images/favicons/favicon-lenta.png",
+        "title": "Lenta.ru"
+    },
+    {
+        "service": "libraryofcongress",
+        "website": "libraryofcongress.com",
+        "favicon": "static/images/favicons/favicon-libraryofcongress.png",
+        "title": "Library of Congress"
+    },
+    {
+        "service": "libsyn",
+        "website": "libsyn.com",
+        "favicon": "static/images/favicons/favicon-libsyn.png",
+        "title": "Lib Syn"
+    },
+    {
+        "service": "lifenews",
+        "website": "lifenews.com",
+        "favicon": "static/images/favicons/favicon-lifenews.png",
+        "title": "LifeNews.com"
+    },
+    {
+        "service": "likee",
+        "website": "likee.com",
+        "favicon": "static/images/favicons/favicon-likee.png",
+        "title": "Like E"
+    },
+    {
+        "service": "limelight",
+        "website": "limelight.pk",
+        "favicon": "static/images/favicons/favicon-limelight.png",
+        "title": "Limelight"
+    },
+    {
+        "service": "linkedin",
+        "website": "linkedin.com",
+        "favicon": "static/images/favicons/favicon-linkedin.png",
+        "title": "LinkedIn"
+    },
+    {
+        "service": "liputan6",
+        "website": "liputan6.com",
+        "favicon": "static/images/favicons/favicon-liputan6.png",
+        "title": "Li Put An 6"
+    },
+    {
+        "service": "listennotes",
+        "website": "listennotes.com",
+        "favicon": "static/images/favicons/favicon-listennotes.png",
+        "title": "Listen Notes"
+    },
+    {
+        "service": "litv",
+        "website": "litv.tv",
+        "favicon": "static/images/favicons/favicon-litv.png",
+        "title": "LiTV"
+    },
+    {
+        "service": "livejournal",
+        "website": "livejournal.com",
+        "favicon": "static/images/favicons/favicon-livejournal.png",
+        "title": "Livejournal"
+    },
+    {
+        "service": "livestream",
+        "website": "livestream.com",
+        "favicon": "static/images/favicons/favicon-livestream.png",
+        "title": "Vimeo Livestream"
+    },
+    {
+        "service": "livestreamfails",
+        "website": "livestreamfails.com",
+        "favicon": "static/images/favicons/favicon-livestreamfails.png",
+        "title": "LIVESTREAMFAILS"
+    },
+    {
+        "service": "loom",
+        "website": "loom.com",
+        "favicon": "static/images/favicons/favicon-loom.png",
+        "title": "Loom"
+    },
+    {
+        "service": "lovehomeporn",
+        "website": "lovehomeporn.com",
+        "favicon": "static/images/favicons/favicon-lovehomeporn.png",
+        "title": "Love Home Porn"
+    },
+    {
+        "service": "lsm",
+        "website": "lsm.com",
+        "favicon": "static/images/favicons/favicon-lsm.png",
+        "title": "Lsm"
+    },
+    {
+        "service": "lumni",
+        "website": "lumni.com",
+        "favicon": "static/images/favicons/favicon-lumni.png",
+        "title": "Lu M Ni"
+    },
+    {
+        "service": "lynda",
+        "website": "lynda.com",
+        "favicon": "static/images/favicons/favicon-lynda.png",
+        "title": "LinkedIn Learning"
+    },
+    {
+        "service": "magellantv",
+        "website": "magellantv.com",
+        "favicon": "static/images/favicons/favicon-magellantv.png",
+        "title": "Magellan Tv"
+    },
+    {
+        "service": "mailru",
+        "website": "mail.ru",
+        "favicon": "static/images/favicons/favicon-mailru.png",
+        "title": "Mail.ru"
+    },
+    {
+        "service": "mainstreaming",
+        "website": "mainstreaming.com",
+        "favicon": "static/images/favicons/favicon-mainstreaming.png",
+        "title": "Mainstreaming"
+    },
+    {
+        "service": "mangomolo",
+        "website": "mangomolo.com",
+        "favicon": "static/images/favicons/favicon-mangomolo.png",
+        "title": "Mango Mol O"
+    },
+    {
+        "service": "manoto",
+        "website": "manototv.com",
+        "favicon": "static/images/favicons/favicon-manoto.png",
+        "title": "Manoto"
+    },
+    {
+        "service": "maoritv",
+        "website": "maoriplus.co.nz",
+        "favicon": "static/images/favicons/favicon-maoritv.png",
+        "title": "M\u0100ORI+"
+    },
+    {
+        "service": "matchtv",
+        "website": "matchtv.ru",
+        "favicon": "static/images/favicons/favicon-matchtv.png",
+        "title": "\u041c\u0430\u0442\u0447 \u0422\u0412"
+    },
+    {
+        "service": "mbn",
+        "website": "mbn.com",
+        "favicon": "static/images/favicons/favicon-mbn.png",
+        "title": "Myrtle Beach Golf"
+    },
+    {
+        "service": "mdr",
+        "website": "mdr.com",
+        "favicon": "static/images/favicons/favicon-mdr.png",
+        "title": "Mdr"
+    },
+    {
+        "service": "mediaite",
+        "website": "mediaite.com",
+        "favicon": "static/images/favicons/favicon-mediaite.png",
+        "title": "Mediaite.com"
+    },
+    {
+        "service": "mediaklikk",
+        "website": "mediaklikk.hu",
+        "favicon": "static/images/favicons/favicon-mediaklikk.png",
+        "title": "M\u00e9diaKlikk"
+    },
+    {
+        "service": "mediaset",
+        "website": "mediasetinfinity.mediaset.it",
+        "favicon": "static/images/favicons/favicon-mediaset.png",
+        "title": "Mediaset"
+    },
+    {
+        "service": "mediaworksnz",
+        "website": "mediaworks.co.nz",
+        "favicon": "static/images/favicons/favicon-mediaworksnz.png",
+        "title": "Media Works Nz"
+    },
+    {
+        "service": "medici",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-medici.png",
+        "title": "Medici"
+    },
+    {
+        "service": "megaphone",
+        "website": "megaphone.fm",
+        "favicon": "static/images/favicons/favicon-megaphone.png",
+        "title": "Megaphone"
+    },
+    {
+        "service": "megatvcom",
+        "website": "megatv.com",
+        "favicon": "static/images/favicons/favicon-megatvcom.png",
+        "title": "Mega Tv Com"
+    },
+    {
+        "service": "meipai",
+        "website": "meipai.com",
+        "favicon": "static/images/favicons/favicon-meipai.png",
+        "title": "\u7f8e\u62cd\u7f51"
+    },
+    {
+        "service": "melonvod",
+        "website": "github.com",
+        "favicon": "static/images/favicons/favicon-melonvod.png",
+        "title": "Melon Vo D"
+    },
+    {
+        "service": "mgtv",
+        "website": "mgtv.com",
+        "favicon": "static/images/favicons/favicon-mgtv.png",
+        "title": "\u00e8\u008a\u0092\u00e6\u009e\u009cTV"
+    },
+    {
+        "service": "microsoftembed",
+        "website": "support.microsoft.com",
+        "favicon": "static/images/favicons/favicon-microsoftembed.png",
+        "title": "Microsoft Embed"
+    },
+    {
+        "service": "minoto",
+        "website": "minoto.com",
+        "favicon": "static/images/favicons/favicon-minoto.png",
+        "title": "Minoto"
+    },
+    {
+        "service": "mirrativ",
+        "website": "mirrativ.com",
+        "favicon": "static/images/favicons/favicon-mirrativ.png",
+        "title": "Mir Rat Iv"
+    },
+    {
+        "service": "mirrorcouk",
+        "website": "mirror.co.uk",
+        "favicon": "static/images/favicons/favicon-mirrorcouk.png",
+        "title": "The Mirror"
+    },
+    {
+        "service": "mit",
+        "website": "mit.edu",
+        "favicon": "static/images/favicons/favicon-mit.png",
+        "title": "MIT"
+    },
+    {
+        "service": "mitele",
+        "website": "mitele.es",
+        "favicon": "static/images/favicons/favicon-mitele.png",
+        "title": "Mi Tele"
+    },
+    {
+        "service": "mlb",
+        "website": "mlb.com",
+        "favicon": "static/images/favicons/favicon-mlb.png",
+        "title": "Mlb"
+    },
+    {
+        "service": "mlssoccer",
+        "website": "mlssoccer.com",
+        "favicon": "static/images/favicons/favicon-mlssoccer.png",
+        "title": "Mls Soccer"
+    },
+    {
+        "service": "mocha",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-mocha.png",
+        "title": "Mocha"
+    },
+    {
+        "service": "mojevideo",
+        "website": "mojevideo.sk",
+        "favicon": "static/images/favicons/favicon-mojevideo.png",
+        "title": "Mojevideo.sk"
+    },
+    {
+        "service": "mojvideo",
+        "website": "play.google.com",
+        "favicon": "static/images/favicons/favicon-mojvideo.png",
+        "title": "Moj"
+    },
+    {
+        "service": "motherless",
+        "website": "hopeedelman.com",
+        "favicon": "static/images/favicons/favicon-motherless.png",
+        "title": "Motherless"
+    },
+    {
+        "service": "motorsport",
+        "website": "motorsport.com",
+        "favicon": "static/images/favicons/favicon-motorsport.png",
+        "title": "Motorsport"
+    },
+    {
+        "service": "moviepilot",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-moviepilot.png",
+        "title": "Movie Pilot"
+    },
+    {
+        "service": "moview",
+        "website": "moview.online",
+        "favicon": "static/images/favicons/favicon-moview.png",
+        "title": "Moview"
+    },
+    {
+        "service": "moviezine",
+        "website": "moviezine.se",
+        "favicon": "static/images/favicons/favicon-moviezine.png",
+        "title": "MovieZine"
+    },
+    {
+        "service": "movingimage",
+        "website": "movingimage.com",
+        "favicon": "static/images/favicons/favicon-movingimage.png",
+        "title": "movingimage"
+    },
+    {
+        "service": "msn",
+        "website": "msn.com",
+        "favicon": "static/images/favicons/favicon-msn.png",
+        "title": "MSN"
+    },
+    {
+        "service": "mtv",
+        "website": "mtv.com",
+        "favicon": "static/images/favicons/favicon-mtv.png",
+        "title": "MTV"
+    },
+    {
+        "service": "muenchentv",
+        "website": "muenchen.tv",
+        "favicon": "static/images/favicons/favicon-muenchentv.png",
+        "title": "Mu E Nchen Tv"
+    },
+    {
+        "service": "murrtube",
+        "website": "murrtube.net",
+        "favicon": "static/images/favicons/favicon-murrtube.png",
+        "title": "Murr Tube"
+    },
+    {
+        "service": "musescore",
+        "website": "musescore.org",
+        "favicon": "static/images/favicons/favicon-musescore.png",
+        "title": "MuseScore"
+    },
+    {
+        "service": "mx3",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-mx3.png",
+        "title": "Mx 3"
+    },
+    {
+        "service": "myspace",
+        "website": "myspace.com",
+        "favicon": "static/images/favicons/favicon-myspace.png",
+        "title": "Myspace"
+    },
+    {
+        "service": "myspass",
+        "website": "myspass.de",
+        "favicon": "static/images/favicons/favicon-myspass.png",
+        "title": "myspass"
+    },
+    {
+        "service": "myvideoge",
+        "website": "myvideo.ge",
+        "favicon": "static/images/favicons/favicon-myvideoge.png",
+        "title": "MYVIDEO"
+    },
+    {
+        "service": "mzaalo",
+        "website": "mzaalo.com",
+        "favicon": "static/images/favicons/favicon-mzaalo.png",
+        "title": "Mzaalo"
+    },
+    {
+        "service": "n1",
+        "website": "n1info.com",
+        "favicon": "static/images/favicons/favicon-n1.png",
+        "title": "N 1"
+    },
+    {
+        "service": "nate",
+        "website": "nate.com",
+        "favicon": "static/images/favicons/favicon-nate.png",
+        "title": "Natex"
+    },
+    {
+        "service": "naver",
+        "website": "naver.com",
+        "favicon": "static/images/favicons/favicon-naver.png",
+        "title": "NAVER"
+    },
+    {
+        "service": "nba",
+        "website": "nba.com",
+        "favicon": "static/images/favicons/favicon-nba.png",
+        "title": "NBA.com"
+    },
+    {
+        "service": "nbc",
+        "website": "nbc.com",
+        "favicon": "static/images/favicons/favicon-nbc.png",
+        "title": "NBC TV Network"
+    },
+    {
+        "service": "ndr",
+        "website": "ndr.com",
+        "favicon": "static/images/favicons/favicon-ndr.png",
+        "title": "NDR"
+    },
+    {
+        "service": "ndtv",
+        "website": "ndtv.com",
+        "favicon": "static/images/favicons/favicon-ndtv.png",
+        "title": "NDTV.com"
+    },
+    {
+        "service": "nebula",
+        "website": "nebula.tv",
+        "favicon": "static/images/favicons/favicon-nebula.png",
+        "title": "Nebula"
+    },
+    {
+        "service": "nest",
+        "website": "nest.com",
+        "favicon": "static/images/favicons/favicon-nest.png",
+        "title": "Nest"
+    },
+    {
+        "service": "netzkino",
+        "website": "netzkino.de",
+        "favicon": "static/images/favicons/favicon-netzkino.png",
+        "title": "Net Z Kino"
+    },
+    {
+        "service": "newgrounds",
+        "website": "newgrounds.com",
+        "favicon": "static/images/favicons/favicon-newgrounds.png",
+        "title": "Newgrounds"
+    },
+    {
+        "service": "newspicks",
+        "website": "newspicks.com",
+        "favicon": "static/images/favicons/favicon-newspicks.png",
+        "title": "NewsPicks"
+    },
+    {
+        "service": "newsy",
+        "website": "newsy.com",
+        "favicon": "static/images/favicons/favicon-newsy.png",
+        "title": "Newsy"
+    },
+    {
+        "service": "nextmedia",
+        "website": "nextm.com",
+        "favicon": "static/images/favicons/favicon-nextmedia.png",
+        "title": "NEXTMedia"
+    },
+    {
+        "service": "nexx",
+        "website": "nexx-helmets.com",
+        "favicon": "static/images/favicons/favicon-nexx.png",
+        "title": "Ne Xx"
+    },
+    {
+        "service": "nfb",
+        "website": "nfb.org",
+        "favicon": "static/images/favicons/favicon-nfb.png",
+        "title": "National Federation of the Blind"
+    },
+    {
+        "service": "nfhsnetwork",
+        "website": "nfhsnetwork.com",
+        "favicon": "static/images/favicons/favicon-nfhsnetwork.png",
+        "title": "High School Sports Online"
+    },
+    {
+        "service": "nfl",
+        "website": "nfl.com",
+        "favicon": "static/images/favicons/favicon-nfl.png",
+        "title": "Nfl"
+    },
+    {
+        "service": "nhk",
+        "website": "www3.nhk.or.jp",
+        "favicon": "static/images/favicons/favicon-nhk.png",
+        "title": "NHK WORLD"
+    },
+    {
+        "service": "nhl",
+        "website": "nhl.com",
+        "favicon": "static/images/favicons/favicon-nhl.png",
+        "title": "NHL.com"
+    },
+    {
+        "service": "nick",
+        "website": "nick.com",
+        "favicon": "static/images/favicons/favicon-nick.png",
+        "title": "Nickelodeon"
+    },
+    {
+        "service": "niconico",
+        "website": "nicovideo.jp",
+        "favicon": "static/images/favicons/favicon-niconico.png",
+        "title": "\u30cb\u30b3\u30cb\u30b3"
+    },
+    {
+        "service": "niconicochannelplus",
+        "website": "github.com",
+        "favicon": "static/images/favicons/favicon-niconicochannelplus.png",
+        "title": "Nico Nico Channel Plus"
+    },
+    {
+        "service": "ninaprotocol",
+        "website": "ninaprotocol.com",
+        "favicon": "static/images/favicons/favicon-ninaprotocol.png",
+        "title": "Nina \u2022 Nina"
+    },
+    {
+        "service": "ninecninemedia",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-ninecninemedia.png",
+        "title": "Nine C Nine Media"
+    },
+    {
+        "service": "ninegag",
+        "website": "9gag.com",
+        "favicon": "static/images/favicons/favicon-ninegag.png",
+        "title": "9GAG"
+    },
+    {
+        "service": "ninenow",
+        "website": "9now.com.au",
+        "favicon": "static/images/favicons/favicon-ninenow.png",
+        "title": "Nine Now"
+    },
+    {
+        "service": "nintendo",
+        "website": "nintendo.com",
+        "favicon": "static/images/favicons/favicon-nintendo.png",
+        "title": "Nintendo"
+    },
+    {
+        "service": "nitter",
+        "website": "nitter.com",
+        "favicon": "static/images/favicons/favicon-nitter.png",
+        "title": "N It Ter"
+    },
+    {
+        "service": "nobelprize",
+        "website": "nobelprize.org",
+        "favicon": "static/images/favicons/favicon-nobelprize.png",
+        "title": "Nobelprize"
+    },
+    {
+        "service": "noice",
+        "website": "noice.com",
+        "favicon": "static/images/favicons/favicon-noice.png",
+        "title": "No Ice"
+    },
+    {
+        "service": "nonktube",
+        "website": "nonktube.com",
+        "favicon": "static/images/favicons/favicon-nonktube.png",
+        "title": "Non K Tube"
+    },
+    {
+        "service": "noodlemagazine",
+        "website": "noodlemagazine.com",
+        "favicon": "static/images/favicons/favicon-noodlemagazine.png",
+        "title": "Noodlemagazine"
+    },
+    {
+        "service": "nosnl",
+        "website": "nos.nl",
+        "favicon": "static/images/favicons/favicon-nosnl.png",
+        "title": "No Snl"
+    },
+    {
+        "service": "nova",
+        "website": "nova.com",
+        "favicon": "static/images/favicons/favicon-nova.png",
+        "title": "Fashion Nova"
+    },
+    {
+        "service": "novaplay",
+        "website": "novaplay.com",
+        "favicon": "static/images/favicons/favicon-novaplay.png",
+        "title": "Novaplay"
+    },
+    {
+        "service": "noz",
+        "website": "nozdesign.com",
+        "favicon": "static/images/favicons/favicon-noz.png",
+        "title": "No Z"
+    },
+    {
+        "service": "npr",
+        "website": "npr.org",
+        "favicon": "static/images/favicons/favicon-npr.png",
+        "title": "Npr"
+    },
+    {
+        "service": "nrk",
+        "website": "nrk.no",
+        "favicon": "static/images/favicons/favicon-nrk.png",
+        "title": "Nrk"
+    },
+    {
+        "service": "nrl",
+        "website": "nrl.com",
+        "favicon": "static/images/favicons/favicon-nrl.png",
+        "title": "NRL.com"
+    },
+    {
+        "service": "ntvcojp",
+        "website": "ntv.co.jp",
+        "favicon": "static/images/favicons/favicon-ntvcojp.png",
+        "title": "N Tv Co Jp"
+    },
+    {
+        "service": "ntvde",
+        "website": "n-tv.de",
+        "favicon": "static/images/favicons/favicon-ntvde.png",
+        "title": "N Tv De"
+    },
+    {
+        "service": "ntvru",
+        "website": "ntvru.com",
+        "favicon": "static/images/favicons/favicon-ntvru.png",
+        "title": "N Tv Ru"
+    },
+    {
+        "service": "nubilesporn",
+        "website": "nubilesporn.com",
+        "favicon": "static/images/favicons/favicon-nubilesporn.png",
+        "title": "Nubile S Porn"
+    },
+    {
+        "service": "nuum",
+        "website": "nuum.com",
+        "favicon": "static/images/favicons/favicon-nuum.png",
+        "title": "NUUM"
+    },
+    {
+        "service": "nuvid",
+        "website": "nuvid.com",
+        "favicon": "static/images/favicons/favicon-nuvid.png",
+        "title": "Nu Vid"
+    },
+    {
+        "service": "nytimes",
+        "website": "nytimes.com",
+        "favicon": "static/images/favicons/favicon-nytimes.png",
+        "title": "The New York Times"
+    },
+    {
+        "service": "nzherald",
+        "website": "nzherald.co.nz",
+        "favicon": "static/images/favicons/favicon-nzherald.png",
+        "title": "NZ Herald"
+    },
+    {
+        "service": "nzonscreen",
+        "website": "nzonscreen.com",
+        "favicon": "static/images/favicons/favicon-nzonscreen.png",
+        "title": "NZ On Screen"
+    },
+    {
+        "service": "odkmedia",
+        "website": "odkmedia.net",
+        "favicon": "static/images/favicons/favicon-odkmedia.png",
+        "title": "O Dk Media"
+    },
+    {
+        "service": "odnoklassniki",
+        "website": "odnoklassniki.com",
+        "favicon": "static/images/favicons/favicon-odnoklassniki.png",
+        "title": "\u041e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u0438"
+    },
+    {
+        "service": "oftv",
+        "website": "oftv.com",
+        "favicon": "static/images/favicons/favicon-oftv.png",
+        "title": "OFTV"
+    },
+    {
+        "service": "oktoberfesttv",
+        "website": "imdb.com",
+        "favicon": "static/images/favicons/favicon-oktoberfesttv.png",
+        "title": "Oktoberfest Tv"
+    },
+    {
+        "service": "once",
+        "website": "once.com",
+        "favicon": "static/images/favicons/favicon-once.png",
+        "title": "Once"
+    },
+    {
+        "service": "ondemandkorea",
+        "website": "ondemandkorea.com",
+        "favicon": "static/images/favicons/favicon-ondemandkorea.png",
+        "title": "\ub4dc\ub77c\ub9c8 \uc608\ub2a5 \uc601\ud654 \ub2e4\uc2dc\ubcf4\uae30 I \uc628\ub514\ub9e8\ub4dc\ucf54\ub9ac\uc544"
+    },
+    {
+        "service": "oneplace",
+        "website": "oneplace.com",
+        "favicon": "static/images/favicons/favicon-oneplace.png",
+        "title": "One Place"
+    },
+    {
+        "service": "onet",
+        "website": "onetonline.org",
+        "favicon": "static/images/favicons/favicon-onet.png",
+        "title": "One T"
+    },
+    {
+        "service": "opencast",
+        "website": "opencast.org",
+        "favicon": "static/images/favicons/favicon-opencast.png",
+        "title": "Open Cast"
+    },
+    {
+        "service": "openrec",
+        "website": "openrec.tv",
+        "favicon": "static/images/favicons/favicon-openrec.png",
+        "title": "OPENREC.tv"
+    },
+    {
+        "service": "ora",
+        "website": "ora.com",
+        "favicon": "static/images/favicons/favicon-ora.png",
+        "title": "O'Reilly Media"
+    },
+    {
+        "service": "orf",
+        "website": "norfolkairport.com",
+        "favicon": "static/images/favicons/favicon-orf.png",
+        "title": "Orf"
+    },
+    {
+        "service": "owncloud",
+        "website": "owncloud.com",
+        "favicon": "static/images/favicons/favicon-owncloud.png",
+        "title": "Own Cloud"
+    },
+    {
+        "service": "packtpub",
+        "website": "packtpub.com",
+        "favicon": "static/images/favicons/favicon-packtpub.png",
+        "title": "Packt"
+    },
+    {
+        "service": "palcomp3",
+        "website": "palcomp3.com",
+        "favicon": "static/images/favicons/favicon-palcomp3.png",
+        "title": "Palco MP3"
+    },
+    {
+        "service": "paramountplus",
+        "website": "paramountplus.com",
+        "favicon": "static/images/favicons/favicon-paramountplus.png",
+        "title": "Paramount Plus"
+    },
+    {
+        "service": "parler",
+        "website": "parler.com",
+        "favicon": "static/images/favicons/favicon-parler.png",
+        "title": "Parler"
+    },
+    {
+        "service": "parlview",
+        "website": "aph.gov.au",
+        "favicon": "static/images/favicons/favicon-parlview.png",
+        "title": "ParlView"
+    },
+    {
+        "service": "patreon",
+        "website": "patreon.com",
+        "favicon": "static/images/favicons/favicon-patreon.png",
+        "title": "Pat Re On"
+    },
+    {
+        "service": "pbs",
+        "website": "pbs.com",
+        "favicon": "static/images/favicons/favicon-pbs.png",
+        "title": "PBS"
+    },
+    {
+        "service": "pearvideo",
+        "website": "pearvideo.com",
+        "favicon": "static/images/favicons/favicon-pearvideo.png",
+        "title": "Pear Video"
+    },
+    {
+        "service": "peekvids",
+        "website": "peekvids.com",
+        "favicon": "static/images/favicons/favicon-peekvids.png",
+        "title": "PeekVids"
+    },
+    {
+        "service": "peertv",
+        "website": "peer.tv",
+        "favicon": "static/images/favicons/favicon-peertv.png",
+        "title": "Peer.tv"
+    },
+    {
+        "service": "peloton",
+        "website": "peloton.com",
+        "favicon": "static/images/favicons/favicon-peloton.png",
+        "title": "Peloton"
+    },
+    {
+        "service": "performgroup",
+        "website": "crunchbase.com",
+        "favicon": "static/images/favicons/favicon-performgroup.png",
+        "title": "Perform Group"
+    },
+    {
+        "service": "periscope",
+        "website": "pscp.tv",
+        "favicon": "static/images/favicons/favicon-periscope.png",
+        "title": "Periscope"
+    },
+    {
+        "service": "pgatour",
+        "website": "pgatour.com",
+        "favicon": "static/images/favicons/favicon-pgatour.png",
+        "title": "Pga Tour"
+    },
+    {
+        "service": "philharmoniedeparis",
+        "website": "philharmoniedeparis.fr",
+        "favicon": "static/images/favicons/favicon-philharmoniedeparis.png",
+        "title": "Philharmonie de Paris"
+    },
+    {
+        "service": "phoenix",
+        "website": "phoenix.com",
+        "favicon": "static/images/favicons/favicon-phoenix.png",
+        "title": "Phoenix Technologies"
+    },
+    {
+        "service": "photobucket",
+        "website": "photobucket.com",
+        "favicon": "static/images/favicons/favicon-photobucket.png",
+        "title": "Photo Storage"
+    },
+    {
+        "service": "pialive",
+        "website": "pia-live.jp",
+        "favicon": "static/images/favicons/favicon-pialive.png",
+        "title": "PIA LIVE STREAM"
+    },
+    {
+        "service": "pinterest",
+        "website": "pinterest.com",
+        "favicon": "static/images/favicons/favicon-pinterest.png",
+        "title": "PInterest"
+    },
+    {
+        "service": "piramidetv",
+        "website": "piramide.tv",
+        "favicon": "static/images/favicons/favicon-piramidetv.png",
+        "title": "Piramide TV"
+    },
+    {
+        "service": "pixivsketch",
+        "website": "sketch.pixiv.net",
+        "favicon": "static/images/favicons/favicon-pixivsketch.png",
+        "title": "Pi Xiv Sketch"
+    },
+    {
+        "service": "pladform",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-pladform.png",
+        "title": "Pla D Form"
+    },
+    {
+        "service": "planetmarathi",
+        "website": "planetmarathi.com",
+        "favicon": "static/images/favicons/favicon-planetmarathi.png",
+        "title": "Planet Marathi"
+    },
+    {
+        "service": "platzi",
+        "website": "platzi.com",
+        "favicon": "static/images/favicons/favicon-platzi.png",
+        "title": "Platz I"
+    },
+    {
+        "service": "playplustv",
+        "website": "playplusgo.com",
+        "favicon": "static/images/favicons/favicon-playplustv.png",
+        "title": "Play Plus Tv"
+    },
+    {
+        "service": "playsuisse",
+        "website": "playsuisse.com",
+        "favicon": "static/images/favicons/favicon-playsuisse.png",
+        "title": "Play Suisse"
+    },
+    {
+        "service": "playtvak",
+        "website": "tv.idnes.cz",
+        "favicon": "static/images/favicons/favicon-playtvak.png",
+        "title": "Playtvak"
+    },
+    {
+        "service": "playwire",
+        "website": "playwire.com",
+        "favicon": "static/images/favicons/favicon-playwire.png",
+        "title": "Play Wire"
+    },
+    {
+        "service": "pluralsight",
+        "website": "pluralsight.com",
+        "favicon": "static/images/favicons/favicon-pluralsight.png",
+        "title": "Plural Sight"
+    },
+    {
+        "service": "podchaser",
+        "website": "podchaser.com",
+        "favicon": "static/images/favicons/favicon-podchaser.png",
+        "title": "Podchaser"
+    },
+    {
+        "service": "podomatic",
+        "website": "podomatic.com",
+        "favicon": "static/images/favicons/favicon-podomatic.png",
+        "title": "Podomatic"
+    },
+    {
+        "service": "pokergo",
+        "website": "pokergo.com",
+        "favicon": "static/images/favicons/favicon-pokergo.png",
+        "title": "PokerGO"
+    },
+    {
+        "service": "polsatgo",
+        "website": "polsatboxgo.pl",
+        "favicon": "static/images/favicons/favicon-polsatgo.png",
+        "title": "Pols At Go"
+    },
+    {
+        "service": "polskieradio",
+        "website": "polskieradio.com",
+        "favicon": "static/images/favicons/favicon-polskieradio.png",
+        "title": "Polski E Radio"
+    },
+    {
+        "service": "popcorntimes",
+        "website": "popcorntimeonline.xyz",
+        "favicon": "static/images/favicons/favicon-popcorntimes.png",
+        "title": "Popcorn Time Online"
+    },
+    {
+        "service": "popcorntv",
+        "website": "popcorntv.fr",
+        "favicon": "static/images/favicons/favicon-popcorntv.png",
+        "title": "PopCorn TV"
+    },
+    {
+        "service": "pornbox",
+        "website": "pornbox.com",
+        "favicon": "static/images/favicons/favicon-pornbox.png",
+        "title": "Pornbox.com"
+    },
+    {
+        "service": "pornflip",
+        "website": "pornflip.com",
+        "favicon": "static/images/favicons/favicon-pornflip.png",
+        "title": "PornFlip"
+    },
+    {
+        "service": "pornhub",
+        "website": "pornhub.com",
+        "favicon": "static/images/favicons/favicon-pornhub.png",
+        "title": "Pornhub"
+    },
+    {
+        "service": "pornotube",
+        "website": "pornotube.com",
+        "favicon": "static/images/favicons/favicon-pornotube.png",
+        "title": "PornoTube"
+    },
+    {
+        "service": "pornovoisines",
+        "website": "pornovoisines.com",
+        "favicon": "static/images/favicons/favicon-pornovoisines.png",
+        "title": "Porno Voisin Es"
+    },
+    {
+        "service": "pornoxo",
+        "website": "pornoxo.com",
+        "favicon": "static/images/favicons/favicon-pornoxo.png",
+        "title": "Porn Oxo"
+    },
+    {
+        "service": "pr0gramm",
+        "website": "pr0gramm.com",
+        "favicon": "static/images/favicons/favicon-pr0gramm.png",
+        "title": "pr0gramm.com"
+    },
+    {
+        "service": "premiershiprugby",
+        "website": "premiershiprugby.com",
+        "favicon": "static/images/favicons/favicon-premiershiprugby.png",
+        "title": "Premiership Rugby"
+    },
+    {
+        "service": "projectveritas",
+        "website": "projectveritas.com",
+        "favicon": "static/images/favicons/favicon-projectveritas.png",
+        "title": "Project Veritas"
+    },
+    {
+        "service": "prx",
+        "website": "prx.com",
+        "favicon": "static/images/favicons/favicon-prx.png",
+        "title": "PRX"
+    },
+    {
+        "service": "puhutv",
+        "website": "puhutv.com",
+        "favicon": "static/images/favicons/favicon-puhutv.png",
+        "title": "Pu Hut V"
+    },
+    {
+        "service": "puls4",
+        "website": "puls4.com",
+        "favicon": "static/images/favicons/favicon-puls4.png",
+        "title": "PULS 4"
+    },
+    {
+        "service": "pyvideo",
+        "website": "pyvideo.org",
+        "favicon": "static/images/favicons/favicon-pyvideo.png",
+        "title": "Py Video"
+    },
+    {
+        "service": "qingting",
+        "website": "m.qingting.fm",
+        "favicon": "static/images/favicons/favicon-qingting.png",
+        "title": "\u873b\u8713FM"
+    },
+    {
+        "service": "r7",
+        "website": "r7.com",
+        "favicon": "static/images/favicons/favicon-r7.png",
+        "title": "R7"
+    },
+    {
+        "service": "radiko",
+        "website": "radiko.jp",
+        "favicon": "static/images/favicons/favicon-radiko.png",
+        "title": "radiko(\u30e9\u30b8\u30b3)"
+    },
+    {
+        "service": "radiocanada",
+        "website": "ici.radio-canada.ca",
+        "favicon": "static/images/favicons/favicon-radiocanada.png",
+        "title": "Radio Canada"
+    },
+    {
+        "service": "radiocomercial",
+        "website": "radiocomercial.pt",
+        "favicon": "static/images/favicons/favicon-radiocomercial.png",
+        "title": "R\u00e1dio Comercial"
+    },
+    {
+        "service": "radiofrance",
+        "website": "radiofrance.com",
+        "favicon": "static/images/favicons/favicon-radiofrance.png",
+        "title": "Accueil"
+    },
+    {
+        "service": "raywenderlich",
+        "website": "raywenderlich.com",
+        "favicon": "static/images/favicons/favicon-raywenderlich.png",
+        "title": "Ray Wender Lich"
+    },
+    {
+        "service": "rbgtum",
+        "website": "live.rbg.tum.de",
+        "favicon": "static/images/favicons/favicon-rbgtum.png",
+        "title": "TUM"
+    },
+    {
+        "service": "rcs",
+        "website": "rcs.com",
+        "favicon": "static/images/favicons/favicon-rcs.png",
+        "title": "Rcs"
+    },
+    {
+        "service": "rds",
+        "website": "rds.com",
+        "favicon": "static/images/favicons/favicon-rds.png",
+        "title": "Blogarithms"
+    },
+    {
+        "service": "redbee",
+        "website": "redbee.com",
+        "favicon": "static/images/favicons/favicon-redbee.png",
+        "title": "Honey"
+    },
+    {
+        "service": "redbulltv",
+        "website": "redbull.com",
+        "favicon": "static/images/favicons/favicon-redbulltv.png",
+        "title": "Red Bull Tv"
+    },
+    {
+        "service": "reddit",
+        "website": "reddit.com",
+        "favicon": "static/images/favicons/favicon-reddit.png",
+        "title": "Reddit"
+    },
+    {
+        "service": "redgifs",
+        "website": "redgifs.com",
+        "favicon": "static/images/favicons/favicon-redgifs.png",
+        "title": "Red Gif S"
+    },
+    {
+        "service": "redtube",
+        "website": "redtube.com",
+        "favicon": "static/images/favicons/favicon-redtube.png",
+        "title": "Redtube"
+    },
+    {
+        "service": "rentv",
+        "website": "rentv.com",
+        "favicon": "static/images/favicons/favicon-rentv.png",
+        "title": "RENTV.com"
+    },
+    {
+        "service": "reuters",
+        "website": "reuters.com",
+        "favicon": "static/images/favicons/favicon-reuters.png",
+        "title": "Reuters"
+    },
+    {
+        "service": "rheinmaintv",
+        "website": "rheinmaintv.com",
+        "favicon": "static/images/favicons/favicon-rheinmaintv.png",
+        "title": "Rhein Main Tv"
+    },
+    {
+        "service": "ridehome",
+        "website": "ridehome.com",
+        "favicon": "static/images/favicons/favicon-ridehome.png",
+        "title": "Ride Home"
+    },
+    {
+        "service": "rinsefm",
+        "website": "rinse.fm",
+        "favicon": "static/images/favicons/favicon-rinsefm.png",
+        "title": "Rinse FM"
+    },
+    {
+        "service": "rmcdecouverte",
+        "website": "rmcbfmplay.com",
+        "favicon": "static/images/favicons/favicon-rmcdecouverte.png",
+        "title": "Replay RMC D\u00e9couverte"
+    },
+    {
+        "service": "rockstargames",
+        "website": "rockstargames.com",
+        "favicon": "static/images/favicons/favicon-rockstargames.png",
+        "title": "Rockstar Games"
+    },
+    {
+        "service": "rokfin",
+        "website": "rokfin.com",
+        "favicon": "static/images/favicons/favicon-rokfin.png",
+        "title": "Rokfin"
+    },
+    {
+        "service": "roosterteeth",
+        "website": "roosterteeth.com",
+        "favicon": "static/images/favicons/favicon-roosterteeth.png",
+        "title": "Rooster Teeth"
+    },
+    {
+        "service": "rottentomatoes",
+        "website": "rottentomatoes.com",
+        "favicon": "static/images/favicons/favicon-rottentomatoes.png",
+        "title": "Rotten Tomatoes"
+    },
+    {
+        "service": "rte",
+        "website": "rte.ie",
+        "favicon": "static/images/favicons/favicon-rte.png",
+        "title": "RT\u00c9"
+    },
+    {
+        "service": "rtl2",
+        "website": "rtl2.fr",
+        "favicon": "static/images/favicons/favicon-rtl2.png",
+        "title": "RTL2"
+    },
+    {
+        "service": "rtnews",
+        "website": "rt.com",
+        "favicon": "static/images/favicons/favicon-rtnews.png",
+        "title": "RT"
+    },
+    {
+        "service": "rtp",
+        "website": "rtp.pt",
+        "favicon": "static/images/favicons/favicon-rtp.png",
+        "title": "RTP"
+    },
+    {
+        "service": "rts",
+        "website": "myrts.com",
+        "favicon": "static/images/favicons/favicon-rts.png",
+        "title": "RTS"
+    },
+    {
+        "service": "rtvcplay",
+        "website": "rtvcplay.com",
+        "favicon": "static/images/favicons/favicon-rtvcplay.png",
+        "title": "RTVC Play"
+    },
+    {
+        "service": "rtve",
+        "website": "rtve.es",
+        "favicon": "static/images/favicons/favicon-rtve.png",
+        "title": "RTVE.es"
+    },
+    {
+        "service": "rtvs",
+        "website": "rtvs.com",
+        "favicon": "static/images/favicons/favicon-rtvs.png",
+        "title": "R Tvs"
+    },
+    {
+        "service": "rtvslo",
+        "website": "rtvslo.si",
+        "favicon": "static/images/favicons/favicon-rtvslo.png",
+        "title": "R Tv Slo"
+    },
+    {
+        "service": "rule34video",
+        "website": "rule34video.com",
+        "favicon": "static/images/favicons/favicon-rule34video.png",
+        "title": "Rule 34 Video"
+    },
+    {
+        "service": "ruutu",
+        "website": "ruutu.fi",
+        "favicon": "static/images/favicons/favicon-ruutu.png",
+        "title": "Ruutu"
+    },
+    {
+        "service": "ruv",
+        "website": "ruv.is",
+        "favicon": "static/images/favicons/favicon-ruv.png",
+        "title": "R Uv"
+    },
+    {
+        "service": "s4c",
+        "website": "s4c.cymru",
+        "favicon": "static/images/favicons/favicon-s4c.png",
+        "title": "S4C"
+    },
+    {
+        "service": "safari",
+        "website": "safari.com",
+        "favicon": "static/images/favicons/favicon-safari.png",
+        "title": "Safari"
+    },
+    {
+        "service": "samplefocus",
+        "website": "samplefocus.com",
+        "favicon": "static/images/favicons/favicon-samplefocus.png",
+        "title": "Sample Focus"
+    },
+    {
+        "service": "sbs",
+        "website": "sbs.com.au",
+        "favicon": "static/images/favicons/favicon-sbs.png",
+        "title": "Sbs"
+    },
+    {
+        "service": "screen9",
+        "website": "screen9.com",
+        "favicon": "static/images/favicons/favicon-screen9.png",
+        "title": "Screen 9"
+    },
+    {
+        "service": "screencast",
+        "website": "screencast.com",
+        "favicon": "static/images/favicons/favicon-screencast.png",
+        "title": "TechSmith"
+    },
+    {
+        "service": "screencastify",
+        "website": "Screencastify.com",
+        "favicon": "static/images/favicons/favicon-screencastify.png",
+        "title": "Screen Cast If Y"
+    },
+    {
+        "service": "screenrec",
+        "website": "screenrec.com",
+        "favicon": "static/images/favicons/favicon-screenrec.png",
+        "title": "Screen Rec"
+    },
+    {
+        "service": "scrippsnetworks",
+        "website": "scrippsnetworks.com",
+        "favicon": "static/images/favicons/favicon-scrippsnetworks.png",
+        "title": "Scripps Networks"
+    },
+    {
+        "service": "scrolller",
+        "website": "scrolller.com",
+        "favicon": "static/images/favicons/favicon-scrolller.png",
+        "title": "Scroll Ler"
+    },
+    {
+        "service": "sejmpl",
+        "website": "sejm.gov.pl",
+        "favicon": "static/images/favicons/favicon-sejmpl.png",
+        "title": "Sejm of the Republic of Poland"
+    },
+    {
+        "service": "senalcolombia",
+        "website": "senalcolombia.com",
+        "favicon": "static/images/favicons/favicon-senalcolombia.png",
+        "title": "Se\u00f1al Colombia"
+    },
+    {
+        "service": "sendtonews",
+        "website": "sendtonews.com",
+        "favicon": "static/images/favicons/favicon-sendtonews.png",
+        "title": "Send To News"
+    },
+    {
+        "service": "servus",
+        "website": "Servus.com",
+        "favicon": "static/images/favicons/favicon-servus.png",
+        "title": "Servus"
+    },
+    {
+        "service": "sevenplus",
+        "website": "sevenplus.com",
+        "favicon": "static/images/favicons/favicon-sevenplus.png",
+        "title": "Seven Plus"
+    },
+    {
+        "service": "sexu",
+        "website": "sexu.com",
+        "favicon": "static/images/favicons/favicon-sexu.png",
+        "title": "Sex U"
+    },
+    {
+        "service": "seznamzpravy",
+        "website": "seznamzpravy.com",
+        "favicon": "static/images/favicons/favicon-seznamzpravy.png",
+        "title": "Seznam Zpr\u00e1vy"
+    },
+    {
+        "service": "shahid",
+        "website": "shahid.mbc.net",
+        "favicon": "static/images/favicons/favicon-shahid.png",
+        "title": "Shahid"
+    },
+    {
+        "service": "sharevideos",
+        "website": "sharevideos.livejournal.com",
+        "favicon": "static/images/favicons/favicon-sharevideos.png",
+        "title": "Share Videos"
+    },
+    {
+        "service": "showroomlive",
+        "website": "showroom-live.com",
+        "favicon": "static/images/favicons/favicon-showroomlive.png",
+        "title": "Showroom Live"
+    },
+    {
+        "service": "simplecast",
+        "website": "simplecast.com",
+        "favicon": "static/images/favicons/favicon-simplecast.png",
+        "title": "Simplecast"
+    },
+    {
+        "service": "sixplay",
+        "website": "sixplay.com",
+        "favicon": "static/images/favicons/favicon-sixplay.png",
+        "title": "Domain Details Page"
+    },
+    {
+        "service": "skyit",
+        "website": "skyit.services",
+        "favicon": "static/images/favicons/favicon-skyit.png",
+        "title": "SkyIT"
+    },
+    {
+        "service": "skylinewebcams",
+        "website": "skylinewebcams.com",
+        "favicon": "static/images/favicons/favicon-skylinewebcams.png",
+        "title": "SkylineWebcams"
+    },
+    {
+        "service": "skynewsarabia",
+        "website": "skynewsarabia.com",
+        "favicon": "static/images/favicons/favicon-skynewsarabia.png",
+        "title": "Sky News Arabia"
+    },
+    {
+        "service": "skynewsau",
+        "website": "news.sky.com",
+        "favicon": "static/images/favicons/favicon-skynewsau.png",
+        "title": "Sky News"
+    },
+    {
+        "service": "slideshare",
+        "website": "slideshare.com",
+        "favicon": "static/images/favicons/favicon-slideshare.png",
+        "title": "SlideShare"
+    },
+    {
+        "service": "slideslive",
+        "website": "slideslive.com",
+        "favicon": "static/images/favicons/favicon-slideslive.png",
+        "title": "Slides Live"
+    },
+    {
+        "service": "slutload",
+        "website": "slutload.com",
+        "favicon": "static/images/favicons/favicon-slutload.png",
+        "title": "SlutLoad"
+    },
+    {
+        "service": "snapchat",
+        "website": "play.google.com",
+        "favicon": "static/images/favicons/favicon-snapchat.png",
+        "title": "Snapchat"
+    },
+    {
+        "service": "sonyliv",
+        "website": "sonyliv.com",
+        "favicon": "static/images/favicons/favicon-sonyliv.png",
+        "title": "Sony Liv"
+    },
+    {
+        "service": "soundcloud",
+        "website": "soundcloud.com",
+        "favicon": "static/images/favicons/favicon-soundcloud.png",
+        "title": "SoundCloud"
+    },
+    {
+        "service": "soundgasm",
+        "website": "flaru.com",
+        "favicon": "static/images/favicons/favicon-soundgasm.png",
+        "title": "Soundgasm.net"
+    },
+    {
+        "service": "southpark",
+        "website": "southparkstudios.com",
+        "favicon": "static/images/favicons/favicon-southpark.png",
+        "title": "South Park"
+    },
+    {
+        "service": "sovietscloset",
+        "website": "sovietscloset.com",
+        "favicon": "static/images/favicons/favicon-sovietscloset.png",
+        "title": "SovietWomble"
+    },
+    {
+        "service": "sportbox",
+        "website": "news.sportbox.ru",
+        "favicon": "static/images/favicons/favicon-sportbox.png",
+        "title": "Sportbox"
+    },
+    {
+        "service": "sportdeutschland",
+        "website": "sportdeutschland.tv",
+        "favicon": "static/images/favicons/favicon-sportdeutschland.png",
+        "title": "Sport Deutschland"
+    },
+    {
+        "service": "spotify",
+        "website": "spotify.com",
+        "favicon": "static/images/favicons/favicon-spotify.png",
+        "title": "Spotify"
+    },
+    {
+        "service": "spreaker",
+        "website": "spreaker.com",
+        "favicon": "static/images/favicons/favicon-spreaker.png",
+        "title": "Spreaker"
+    },
+    {
+        "service": "sproutvideo",
+        "website": "sproutvideo.com",
+        "favicon": "static/images/favicons/favicon-sproutvideo.png",
+        "title": "SproutVideo"
+    },
+    {
+        "service": "srmediathek",
+        "website": "ardmediathek.de",
+        "favicon": "static/images/favicons/favicon-srmediathek.png",
+        "title": "SR in der ARD Mediathek"
+    },
+    {
+        "service": "stacommu",
+        "website": "stacommu.jp",
+        "favicon": "static/images/favicons/favicon-stacommu.png",
+        "title": "St A Com Mu"
+    },
+    {
+        "service": "stanfordoc",
+        "website": "stanford.edu",
+        "favicon": "static/images/favicons/favicon-stanfordoc.png",
+        "title": "Stanford Oc"
+    },
+    {
+        "service": "startrek",
+        "website": "startrek.com",
+        "favicon": "static/images/favicons/favicon-startrek.png",
+        "title": "Star Trek"
+    },
+    {
+        "service": "steam",
+        "website": "store.steampowered.com",
+        "favicon": "static/images/favicons/favicon-steam.png",
+        "title": "Steam"
+    },
+    {
+        "service": "storyfire",
+        "website": "storyfire.com",
+        "favicon": "static/images/favicons/favicon-storyfire.png",
+        "title": "StoryFire"
+    },
+    {
+        "service": "streamable",
+        "website": "streamable.com",
+        "favicon": "static/images/favicons/favicon-streamable.png",
+        "title": "Streamable"
+    },
+    {
+        "service": "streamcz",
+        "website": "stream.cz",
+        "favicon": "static/images/favicons/favicon-streamcz.png",
+        "title": "Stream Cz"
+    },
+    {
+        "service": "streetvoice",
+        "website": "streetvoice.com",
+        "favicon": "static/images/favicons/favicon-streetvoice.png",
+        "title": "StreetVoice"
+    },
+    {
+        "service": "stripchat",
+        "website": "stripchat.com",
+        "favicon": "static/images/favicons/favicon-stripchat.png",
+        "title": "Strip Chat"
+    },
+    {
+        "service": "subsplash",
+        "website": "subsplash.com",
+        "favicon": "static/images/favicons/favicon-subsplash.png",
+        "title": "Subsplash"
+    },
+    {
+        "service": "substack",
+        "website": "substack.com",
+        "favicon": "static/images/favicons/favicon-substack.png",
+        "title": "Substack"
+    },
+    {
+        "service": "sunporno",
+        "website": "sunporno.com",
+        "favicon": "static/images/favicons/favicon-sunporno.png",
+        "title": "Sun Porno"
+    },
+    {
+        "service": "sverigesradio",
+        "website": "sverigesradio.se",
+        "favicon": "static/images/favicons/favicon-sverigesradio.png",
+        "title": "Sveriges Radio"
+    },
+    {
+        "service": "svt",
+        "website": "svt.com",
+        "favicon": "static/images/favicons/favicon-svt.png",
+        "title": "Svt"
+    },
+    {
+        "service": "swearnet",
+        "website": "vidyard.com",
+        "favicon": "static/images/favicons/favicon-swearnet.png",
+        "title": "Swear Net"
+    },
+    {
+        "service": "syfy",
+        "website": "syfy.com",
+        "favicon": "static/images/favicons/favicon-syfy.png",
+        "title": "Syfy"
+    },
+    {
+        "service": "syvdk",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-syvdk.png",
+        "title": "Sy V Dk"
+    },
+    {
+        "service": "sztvhu",
+        "website": "tvszombathely.hu",
+        "favicon": "static/images/favicons/favicon-sztvhu.png",
+        "title": "Sztvhu"
+    },
+    {
+        "service": "tagesschau",
+        "website": "tagesschau.de",
+        "favicon": "static/images/favicons/favicon-tagesschau.png",
+        "title": "tagesschau.de"
+    },
+    {
+        "service": "tass",
+        "website": "tass.com",
+        "favicon": "static/images/favicons/favicon-tass.png",
+        "title": "TasS"
+    },
+    {
+        "service": "tbs",
+        "website": "tbs.com",
+        "favicon": "static/images/favicons/favicon-tbs.png",
+        "title": "TBS"
+    },
+    {
+        "service": "tbsjp",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-tbsjp.png",
+        "title": "TBS JP"
+    },
+    {
+        "service": "teachable",
+        "website": "teachable.com",
+        "favicon": "static/images/favicons/favicon-teachable.png",
+        "title": "Teachable"
+    },
+    {
+        "service": "teachertube",
+        "website": "teachertube.com",
+        "favicon": "static/images/favicons/favicon-teachertube.png",
+        "title": "TeacherTube"
+    },
+    {
+        "service": "teachingchannel",
+        "website": "teachingchannel.com",
+        "favicon": "static/images/favicons/favicon-teachingchannel.png",
+        "title": "Teaching Channel"
+    },
+    {
+        "service": "teamcoco",
+        "website": "teamcoco.com",
+        "favicon": "static/images/favicons/favicon-teamcoco.png",
+        "title": "Team Coco"
+    },
+    {
+        "service": "teamtreehouse",
+        "website": "teamtreehouse.com",
+        "favicon": "static/images/favicons/favicon-teamtreehouse.png",
+        "title": "Team Treehouse"
+    },
+    {
+        "service": "ted",
+        "website": "ted.com",
+        "favicon": "static/images/favicons/favicon-ted.png",
+        "title": "Ted"
+    },
+    {
+        "service": "tele13",
+        "website": "t13.cl",
+        "favicon": "static/images/favicons/favicon-tele13.png",
+        "title": "T13"
+    },
+    {
+        "service": "tele5",
+        "website": "telecinco.es",
+        "favicon": "static/images/favicons/favicon-tele5.png",
+        "title": "Tele 5"
+    },
+    {
+        "service": "telecaribe",
+        "website": "telecaribe.com",
+        "favicon": "static/images/favicons/favicon-telecaribe.png",
+        "title": "Tele Caribe"
+    },
+    {
+        "service": "telecinco",
+        "website": "telecinco.es",
+        "favicon": "static/images/favicons/favicon-telecinco.png",
+        "title": "Tele Cinco"
+    },
+    {
+        "service": "telegram",
+        "website": "telegram.com",
+        "favicon": "static/images/favicons/favicon-telegram.png",
+        "title": "Telegram"
+    },
+    {
+        "service": "telemundo",
+        "website": "telemundo.com",
+        "favicon": "static/images/favicons/favicon-telemundo.png",
+        "title": "Telemundo"
+    },
+    {
+        "service": "teletask",
+        "website": "teletask.com",
+        "favicon": "static/images/favicons/favicon-teletask.png",
+        "title": "Teletask"
+    },
+    {
+        "service": "telewebion",
+        "website": "telewebion.com",
+        "favicon": "static/images/favicons/favicon-telewebion.png",
+        "title": "\u062a\u0644\u0648\u0628\u06cc\u0648\u0646"
+    },
+    {
+        "service": "tempo",
+        "website": "tempo.com",
+        "favicon": "static/images/favicons/favicon-tempo.png",
+        "title": "Tempo"
+    },
+    {
+        "service": "tennistv",
+        "website": "tennistv.com",
+        "favicon": "static/images/favicons/favicon-tennistv.png",
+        "title": "Tennis Tv"
+    },
+    {
+        "service": "tenplay",
+        "website": "10play.com.au",
+        "favicon": "static/images/favicons/favicon-tenplay.png",
+        "title": "Ten Play"
+    },
+    {
+        "service": "tf1",
+        "website": "tf1.fr",
+        "favicon": "static/images/favicons/favicon-tf1.png",
+        "title": "T F 1"
+    },
+    {
+        "service": "tfo",
+        "website": "tforods.com",
+        "favicon": "static/images/favicons/favicon-tfo.png",
+        "title": "T Fo"
+    },
+    {
+        "service": "theholetv",
+        "website": "theholepodcast.com",
+        "favicon": "static/images/favicons/favicon-theholetv.png",
+        "title": "The Hole Tv"
+    },
+    {
+        "service": "theintercept",
+        "website": "theintercept.com",
+        "favicon": "static/images/favicons/favicon-theintercept.png",
+        "title": "The Intercept"
+    },
+    {
+        "service": "theplatform",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-theplatform.png",
+        "title": "The Platform"
+    },
+    {
+        "service": "thestar",
+        "website": "thestar.com",
+        "favicon": "static/images/favicons/favicon-thestar.png",
+        "title": "The Star"
+    },
+    {
+        "service": "thesun",
+        "website": "the-sun.com",
+        "favicon": "static/images/favicons/favicon-thesun.png",
+        "title": "The Sun"
+    },
+    {
+        "service": "theweatherchannel",
+        "website": "weather.com",
+        "favicon": "static/images/favicons/favicon-theweatherchannel.png",
+        "title": "The Weather Channel"
+    },
+    {
+        "service": "thisamericanlife",
+        "website": "thisamericanlife.org",
+        "favicon": "static/images/favicons/favicon-thisamericanlife.png",
+        "title": "This American Life"
+    },
+    {
+        "service": "thisoldhouse",
+        "website": "thisoldhouse.com",
+        "favicon": "static/images/favicons/favicon-thisoldhouse.png",
+        "title": "This Old House"
+    },
+    {
+        "service": "thisvid",
+        "website": "thisvid.com",
+        "favicon": "static/images/favicons/favicon-thisvid.png",
+        "title": "ThisVid"
+    },
+    {
+        "service": "threeqsdn",
+        "website": "salsa.debian.org",
+        "favicon": "static/images/favicons/favicon-threeqsdn.png",
+        "title": "Three Qs Dn"
+    },
+    {
+        "service": "threespeak",
+        "website": "3speak.tv",
+        "favicon": "static/images/favicons/favicon-threespeak.png",
+        "title": "Three Speak"
+    },
+    {
+        "service": "tiktok",
+        "website": "tiktok.com",
+        "favicon": "static/images/favicons/favicon-tiktok.png",
+        "title": "TikTok"
+    },
+    {
+        "service": "tmz",
+        "website": "tmz.com",
+        "favicon": "static/images/favicons/favicon-tmz.png",
+        "title": "Tmz"
+    },
+    {
+        "service": "tnaflix",
+        "website": "tnaflix.com",
+        "favicon": "static/images/favicons/favicon-tnaflix.png",
+        "title": "TNAFLIX.COM"
+    },
+    {
+        "service": "toggle",
+        "website": "toggle.com",
+        "favicon": "static/images/favicons/favicon-toggle.png",
+        "title": "Toggle"
+    },
+    {
+        "service": "toggo",
+        "website": "toggo.com",
+        "favicon": "static/images/favicons/favicon-toggo.png",
+        "title": "Toggo"
+    },
+    {
+        "service": "tonline",
+        "website": "t-online.de",
+        "favicon": "static/images/favicons/favicon-tonline.png",
+        "title": "T-Online.de"
+    },
+    {
+        "service": "toongoggles",
+        "website": "toongoggles.com",
+        "favicon": "static/images/favicons/favicon-toongoggles.png",
+        "title": "Toon Goggles"
+    },
+    {
+        "service": "toutv",
+        "website": "ici.tou.tv",
+        "favicon": "static/images/favicons/favicon-toutv.png",
+        "title": "Tou Tv"
+    },
+    {
+        "service": "trovo",
+        "website": "trovo.live",
+        "favicon": "static/images/favicons/favicon-trovo.png",
+        "title": "Trovo"
+    },
+    {
+        "service": "trtworld",
+        "website": "trtworld.com",
+        "favicon": "static/images/favicons/favicon-trtworld.png",
+        "title": "TrT World"
+    },
+    {
+        "service": "trunews",
+        "website": "trunews.com",
+        "favicon": "static/images/favicons/favicon-trunews.png",
+        "title": "Tru News"
+    },
+    {
+        "service": "truth",
+        "website": "truthsocial.com",
+        "favicon": "static/images/favicons/favicon-truth.png",
+        "title": "Truth Social"
+    },
+    {
+        "service": "trutv",
+        "website": "trutv.com",
+        "favicon": "static/images/favicons/favicon-trutv.png",
+        "title": "Tru Home Page"
+    },
+    {
+        "service": "tube8",
+        "website": "tube8.com",
+        "favicon": "static/images/favicons/favicon-tube8.png",
+        "title": "Tube8"
+    },
+    {
+        "service": "tubitv",
+        "website": "tubitv.com",
+        "favicon": "static/images/favicons/favicon-tubitv.png",
+        "title": "Tub Itv"
+    },
+    {
+        "service": "tumblr",
+        "website": "tumblr.com",
+        "favicon": "static/images/favicons/favicon-tumblr.png",
+        "title": "Tumblr"
+    },
+    {
+        "service": "tunein",
+        "website": "tunein.com",
+        "favicon": "static/images/favicons/favicon-tunein.png",
+        "title": "TuneIn"
+    },
+    {
+        "service": "tv2",
+        "website": "tv2.dk",
+        "favicon": "static/images/favicons/favicon-tv2.png",
+        "title": "Tv 2"
+    },
+    {
+        "service": "tv24ua",
+        "website": "24tv.ua",
+        "favicon": "static/images/favicons/favicon-tv24ua.png",
+        "title": "24"
+    },
+    {
+        "service": "tv2dk",
+        "website": "tv2.dk",
+        "favicon": "static/images/favicons/favicon-tv2dk.png",
+        "title": "Tv2 Dk"
+    },
+    {
+        "service": "tv2hu",
+        "website": "tv2play.hu",
+        "favicon": "static/images/favicons/favicon-tv2hu.png",
+        "title": "TV2 Play"
+    },
+    {
+        "service": "tv4",
+        "website": "tv4play.se",
+        "favicon": "static/images/favicons/favicon-tv4.png",
+        "title": "TV4 Play"
+    },
+    {
+        "service": "tv5mondeplus",
+        "website": "tv5monde.com",
+        "favicon": "static/images/favicons/favicon-tv5mondeplus.png",
+        "title": "TV5MONDE"
+    },
+    {
+        "service": "tvanouvelles",
+        "website": "tvanouvelles.ca",
+        "favicon": "static/images/favicons/favicon-tvanouvelles.png",
+        "title": "Tv A Nouvelles"
+    },
+    {
+        "service": "tvc",
+        "website": "tvc.com",
+        "favicon": "static/images/favicons/favicon-tvc.png",
+        "title": "TVC"
+    },
+    {
+        "service": "tvigle",
+        "website": "tvigle.com",
+        "favicon": "static/images/favicons/favicon-tvigle.png",
+        "title": "Tvigle"
+    },
+    {
+        "service": "tviplayer",
+        "website": "tviplayer.com",
+        "favicon": "static/images/favicons/favicon-tviplayer.png",
+        "title": "TVI Player"
+    },
+    {
+        "service": "tvland",
+        "website": "tvland.com",
+        "favicon": "static/images/favicons/favicon-tvland.png",
+        "title": "TV Land"
+    },
+    {
+        "service": "tvopengr",
+        "website": "tvopen.gr",
+        "favicon": "static/images/favicons/favicon-tvopengr.png",
+        "title": "Tv Open Gr"
+    },
+    {
+        "service": "tvp",
+        "website": "tvp.com",
+        "favicon": "static/images/favicons/favicon-tvp.png",
+        "title": "TVP"
+    },
+    {
+        "service": "tvplayer",
+        "website": "tvplayer.com",
+        "favicon": "static/images/favicons/favicon-tvplayer.png",
+        "title": "Tv Player"
+    },
+    {
+        "service": "tweakers",
+        "website": "tweakers.net",
+        "favicon": "static/images/favicons/favicon-tweakers.png",
+        "title": "Tweakers"
+    },
+    {
+        "service": "twentymin",
+        "website": "online-stopwatch.com",
+        "favicon": "static/images/favicons/favicon-twentymin.png",
+        "title": "20 Minutes Timer"
+    },
+    {
+        "service": "twitch",
+        "website": "twitch.com",
+        "favicon": "static/images/favicons/favicon-twitch.png",
+        "title": "Twitch"
+    },
+    {
+        "service": "twitter",
+        "website": "x.com",
+        "favicon": "static/images/favicons/favicon-twitter.png",
+        "title": "Twitter"
+    },
+    {
+        "service": "txxx",
+        "website": "txxx.com",
+        "favicon": "static/images/favicons/favicon-txxx.png",
+        "title": "TXXX.com"
+    },
+    {
+        "service": "udemy",
+        "website": "udemy.com",
+        "favicon": "static/images/favicons/favicon-udemy.png",
+        "title": "Udemy"
+    },
+    {
+        "service": "udn",
+        "website": "udn.com",
+        "favicon": "static/images/favicons/favicon-udn.png",
+        "title": "UDN"
+    },
+    {
+        "service": "ukcolumn",
+        "website": "ukcolumn.org",
+        "favicon": "static/images/favicons/favicon-ukcolumn.png",
+        "title": "Uk Column"
+    },
+    {
+        "service": "uliza",
+        "website": "uliza.org",
+        "favicon": "static/images/favicons/favicon-uliza.png",
+        "title": "Uliza"
+    },
+    {
+        "service": "umg",
+        "website": "universalmusic.com",
+        "favicon": "static/images/favicons/favicon-umg.png",
+        "title": "Umg"
+    },
+    {
+        "service": "unistra",
+        "website": "en.unistra.fr",
+        "favicon": "static/images/favicons/favicon-unistra.png",
+        "title": "University of Strasbourg"
+    },
+    {
+        "service": "uol",
+        "website": "uol.com",
+        "favicon": "static/images/favicons/favicon-uol.png",
+        "title": "UOL"
+    },
+    {
+        "service": "uplynk",
+        "website": "foxsports.com",
+        "favicon": "static/images/favicons/favicon-uplynk.png",
+        "title": "UpLynK"
+    },
+    {
+        "service": "urort",
+        "website": "urort.com",
+        "favicon": "static/images/favicons/favicon-urort.png",
+        "title": "urort.com"
+    },
+    {
+        "service": "usanetwork",
+        "website": "usanetwork.com",
+        "favicon": "static/images/favicons/favicon-usanetwork.png",
+        "title": "USA TV Network"
+    },
+    {
+        "service": "usatoday",
+        "website": "usatoday.com",
+        "favicon": "static/images/favicons/favicon-usatoday.png",
+        "title": "USA TODAY"
+    },
+    {
+        "service": "ustream",
+        "website": "planeta.com",
+        "favicon": "static/images/favicons/favicon-ustream.png",
+        "title": "Ustream"
+    },
+    {
+        "service": "utreon",
+        "website": "utreon.com",
+        "favicon": "static/images/favicons/favicon-utreon.png",
+        "title": "UTreon"
+    },
+    {
+        "service": "varzesh3",
+        "website": "varzesh3.com",
+        "favicon": "static/images/favicons/favicon-varzesh3.png",
+        "title": "varzesh3"
+    },
+    {
+        "service": "vbox7",
+        "website": "vbox7.com",
+        "favicon": "static/images/favicons/favicon-vbox7.png",
+        "title": "Vbox7"
+    },
+    {
+        "service": "veo",
+        "website": "app.veo.co",
+        "favicon": "static/images/favicons/favicon-veo.png",
+        "title": "Veo"
+    },
+    {
+        "service": "vevo",
+        "website": "vevo.com",
+        "favicon": "static/images/favicons/favicon-vevo.png",
+        "title": "Vevo"
+    },
+    {
+        "service": "vgtv",
+        "website": "tv.vg.no",
+        "favicon": "static/images/favicons/favicon-vgtv.png",
+        "title": "Vg Tv"
+    },
+    {
+        "service": "vh1",
+        "website": "vh1.com",
+        "favicon": "static/images/favicons/favicon-vh1.png",
+        "title": "VH1"
+    },
+    {
+        "service": "vice",
+        "website": "vice.com",
+        "favicon": "static/images/favicons/favicon-vice.png",
+        "title": "Vice"
+    },
+    {
+        "service": "viddler",
+        "website": "viddler.com",
+        "favicon": "static/images/favicons/favicon-viddler.png",
+        "title": "Viddler"
+    },
+    {
+        "service": "videa",
+        "website": "videa.com",
+        "favicon": "static/images/favicons/favicon-videa.png",
+        "title": "Videa"
+    },
+    {
+        "service": "videocampus_sachsen",
+        "website": "videocampus.sachsen.de",
+        "favicon": "static/images/favicons/favicon-videocampus_sachsen.png",
+        "title": "VideoCampus Sachsen"
+    },
+    {
+        "service": "videofyme",
+        "website": "videofy.me",
+        "favicon": "static/images/favicons/favicon-videofyme.png",
+        "title": "Video Fyme"
+    },
+    {
+        "service": "videoken",
+        "website": "videoken.com",
+        "favicon": "static/images/favicons/favicon-videoken.png",
+        "title": "Video Ken"
+    },
+    {
+        "service": "videopress",
+        "website": "videopress.com",
+        "favicon": "static/images/favicons/favicon-videopress.png",
+        "title": "Video Press"
+    },
+    {
+        "service": "vidio",
+        "website": "vidio.com",
+        "favicon": "static/images/favicons/favicon-vidio.png",
+        "title": "Vidio"
+    },
+    {
+        "service": "vidyard",
+        "website": "vidyard.com",
+        "favicon": "static/images/favicons/favicon-vidyard.png",
+        "title": "Vidyard"
+    },
+    {
+        "service": "viewlift",
+        "website": "viewlift.com",
+        "favicon": "static/images/favicons/favicon-viewlift.png",
+        "title": "View Lift"
+    },
+    {
+        "service": "viidea",
+        "website": "myvi.in",
+        "favicon": "static/images/favicons/favicon-viidea.png",
+        "title": "ViIdea"
+    },
+    {
+        "service": "viki",
+        "website": "viki.com",
+        "favicon": "static/images/favicons/favicon-viki.png",
+        "title": "Rakuten Viki"
+    },
+    {
+        "service": "vimeo",
+        "website": "vimeo.com",
+        "favicon": "static/images/favicons/favicon-vimeo.png",
+        "title": "Vimeo"
+    },
+    {
+        "service": "viously",
+        "website": "viously.com",
+        "favicon": "static/images/favicons/favicon-viously.png",
+        "title": "Viously"
+    },
+    {
+        "service": "viqeo",
+        "website": "viqeo.tv",
+        "favicon": "static/images/favicons/favicon-viqeo.png",
+        "title": "Viqeo"
+    },
+    {
+        "service": "vk",
+        "website": "vk.com",
+        "favicon": "static/images/favicons/favicon-vk.png",
+        "title": "VK"
+    },
+    {
+        "service": "vocaroo",
+        "website": "vocaroo.com",
+        "favicon": "static/images/favicons/favicon-vocaroo.png",
+        "title": "Vocaroo"
+    },
+    {
+        "service": "vodpl",
+        "website": "vod.tvp.pl",
+        "favicon": "static/images/favicons/favicon-vodpl.png",
+        "title": "Vodpi"
+    },
+    {
+        "service": "voicy",
+        "website": "voicy.com",
+        "favicon": "static/images/favicons/favicon-voicy.png",
+        "title": "Voicy"
+    },
+    {
+        "service": "voxmedia",
+        "website": "voxmedia.com",
+        "favicon": "static/images/favicons/favicon-voxmedia.png",
+        "title": "Vox Media"
+    },
+    {
+        "service": "vtm",
+        "website": "vtm.com",
+        "favicon": "static/images/favicons/favicon-vtm.png",
+        "title": "VTM"
+    },
+    {
+        "service": "vtv",
+        "website": "vtv.com",
+        "favicon": "static/images/favicons/favicon-vtv.png",
+        "title": "VTV"
+    },
+    {
+        "service": "vuclip",
+        "website": "vuclip.com",
+        "favicon": "static/images/favicons/favicon-vuclip.png",
+        "title": "Vu Clip"
+    },
+    {
+        "service": "vvvvid",
+        "website": "en.wikipedia.org",
+        "favicon": "static/images/favicons/favicon-vvvvid.png",
+        "title": "Vvv Vid"
+    },
+    {
+        "service": "walla",
+        "website": "walla.com",
+        "favicon": "static/images/favicons/favicon-walla.png",
+        "title": "Walla"
+    },
+    {
+        "service": "wdr",
+        "website": "www1.wdr.de",
+        "favicon": "static/images/favicons/favicon-wdr.png",
+        "title": "Wdr"
+    },
+    {
+        "service": "webcamerapl",
+        "website": "webcamera.pl",
+        "favicon": "static/images/favicons/favicon-webcamerapl.png",
+        "title": "WebCamera"
+    },
+    {
+        "service": "webcaster",
+        "website": "webvideocaster.com",
+        "favicon": "static/images/favicons/favicon-webcaster.png",
+        "title": "Web Caster"
+    },
+    {
+        "service": "webofstories",
+        "website": "webofstories.com",
+        "favicon": "static/images/favicons/favicon-webofstories.png",
+        "title": "Web of Stories"
+    },
+    {
+        "service": "weibo",
+        "website": "weibo.com",
+        "favicon": "static/images/favicons/favicon-weibo.png",
+        "title": "Welbo"
+    },
+    {
+        "service": "weiqitv",
+        "website": "weiqitv.com",
+        "favicon": "static/images/favicons/favicon-weiqitv.png",
+        "title": "WeIqitv"
+    },
+    {
+        "service": "wevidi",
+        "website": "wevidi.net",
+        "favicon": "static/images/favicons/favicon-wevidi.png",
+        "title": "WeVidi"
+    },
+    {
+        "service": "weyyak",
+        "website": "weyyak.com",
+        "favicon": "static/images/favicons/favicon-weyyak.png",
+        "title": "WeyYak"
+    },
+    {
+        "service": "whowatch",
+        "website": "play.google.com",
+        "favicon": "static/images/favicons/favicon-whowatch.png",
+        "title": "WhoWatch"
+    },
+    {
+        "service": "whyp",
+        "website": "whyp.it",
+        "favicon": "static/images/favicons/favicon-whyp.png",
+        "title": "Whyp"
+    },
+    {
+        "service": "wikimedia",
+        "website": "wikimedia.com",
+        "favicon": "static/images/favicons/favicon-wikimedia.png",
+        "title": "Wikimedia"
+    },
+    {
+        "service": "wimtv",
+        "website": "wim.tv",
+        "favicon": "static/images/favicons/favicon-wimtv.png",
+        "title": "Wim Tv"
+    },
+    {
+        "service": "wistia",
+        "website": "wistia.com",
+        "favicon": "static/images/favicons/favicon-wistia.png",
+        "title": "Wistia"
+    },
+    {
+        "service": "wordpress",
+        "website": "wordpress.com",
+        "favicon": "static/images/favicons/favicon-wordpress.png",
+        "title": "WordPress.com"
+    },
+    {
+        "service": "worldstarhiphop",
+        "website": "worldstarhiphop.com",
+        "favicon": "static/images/favicons/favicon-worldstarhiphop.png",
+        "title": "World Star Hiphop"
+    },
+    {
+        "service": "wppilot",
+        "website": "pilot.wp.pl",
+        "favicon": "static/images/favicons/favicon-wppilot.png",
+        "title": "Wp Pilot"
+    },
+    {
+        "service": "wrestleuniverse",
+        "website": "wrestle-universe.com",
+        "favicon": "static/images/favicons/favicon-wrestleuniverse.png",
+        "title": "WRESTLE UNIVERSE"
+    },
+    {
+        "service": "wwe",
+        "website": "wwe.com",
+        "favicon": "static/images/favicons/favicon-wwe.png",
+        "title": "WWE"
+    },
+    {
+        "service": "wykop",
+        "website": "wykop.pl",
+        "favicon": "static/images/favicons/favicon-wykop.png",
+        "title": "WyKop"
+    },
+    {
+        "service": "xanimu",
+        "website": "xanimu.com",
+        "favicon": "static/images/favicons/favicon-xanimu.png",
+        "title": "XAnImu"
+    },
+    {
+        "service": "xboxclips",
+        "website": "xboxclips.com",
+        "favicon": "static/images/favicons/favicon-xboxclips.png",
+        "title": "XboxClips.com"
+    },
+    {
+        "service": "xhamster",
+        "website": "xhamster.com",
+        "favicon": "static/images/favicons/favicon-xhamster.png",
+        "title": "xHamster"
+    },
+    {
+        "service": "xiaohongshu",
+        "website": "XiaoHongShu.com",
+        "favicon": "static/images/favicons/favicon-xiaohongshu.png",
+        "title": "\u5c0f\u7ea2\u4e66"
+    },
+    {
+        "service": "xinpianchang",
+        "website": "d.xinpianchang.com",
+        "favicon": "static/images/favicons/favicon-xinpianchang.png",
+        "title": "\u65b0\u7247\u573a\u77ed\u89c6\u9891"
+    },
+    {
+        "service": "xnxx",
+        "website": "xnxx.com",
+        "favicon": "static/images/favicons/favicon-xnxx.png",
+        "title": "Xnxx"
+    },
+    {
+        "service": "xstream",
+        "website": "xstream.com",
+        "favicon": "static/images/favicons/favicon-xstream.png",
+        "title": "Xstream Play"
+    },
+    {
+        "service": "xvideos",
+        "website": "xvideos.com",
+        "favicon": "static/images/favicons/favicon-xvideos.png",
+        "title": "XVideos"
+    },
+    {
+        "service": "xxxymovies",
+        "website": "xxxymovies.com",
+        "favicon": "static/images/favicons/favicon-xxxymovies.png",
+        "title": "XXXYMovies.com"
+    },
+    {
+        "service": "yahoo",
+        "website": "yahoo.com",
+        "favicon": "static/images/favicons/favicon-yahoo.png",
+        "title": "Yahoo"
+    },
+    {
+        "service": "yandexdisk",
+        "website": "yandexdisk.com",
+        "favicon": "static/images/favicons/favicon-yandexdisk.png",
+        "title": "Yandex Disk"
+    },
+    {
+        "service": "yandexmusic",
+        "website": "yandexmusic.com",
+        "favicon": "static/images/favicons/favicon-yandexmusic.png",
+        "title": "Yandex Music"
+    },
+    {
+        "service": "yandexvideo",
+        "website": "yandex.com",
+        "favicon": "static/images/favicons/favicon-yandexvideo.png",
+        "title": "Yandex Video"
+    },
+    {
+        "service": "yapfiles",
+        "website": "yapfiles.com",
+        "favicon": "static/images/favicons/favicon-yapfiles.png",
+        "title": "\u042f\u041f \u0444\u0430\u0439\u043b\u044b"
+    },
+    {
+        "service": "yle_areena",
+        "website": "areena.yle.fi",
+        "favicon": "static/images/favicons/favicon-yle_areena.png",
+        "title": "Yle Areena"
+    },
+    {
+        "service": "youjizz",
+        "website": "youjizz.com",
+        "favicon": "static/images/favicons/favicon-youjizz.png",
+        "title": "YouJizz"
+    },
+    {
+        "service": "youku",
+        "website": "youku.com",
+        "favicon": "static/images/favicons/favicon-youku.png",
+        "title": "Youku"
+    },
+    {
+        "service": "younow",
+        "website": "younow.com",
+        "favicon": "static/images/favicons/favicon-younow.png",
+        "title": "YouNow"
+    }
+]

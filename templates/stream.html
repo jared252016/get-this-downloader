@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+<script>
+    function redirect_to_download(status, progress) {
+        if (status == 'Ready' && progress == 100) {
+            window.location.href = '{{ link }}';
+        }
+    }
+    function reload_page() {
+        window.location.reload();
+        setTimeout(reload_page, 5000);
+    }
+    setTimeout(reload_page, 5000);
+  </script>
+{% endblock %}
+
+{% block content %}
+
+
+<!-- Hero Section -->
+<section 
+  class="py-5 bg-light text-center" 
+  id="hero"
+>
+  <div class="container">
+    <h1 class="display-5 fw-bold mb-3">Download Your Favorite Streams</h1>
+    <p class="lead mb-4">Your stream is downloading. You will see a Download Now button when it's ready.</p>
+    <div class="d-flex justify-content-center flex-wrap">
+      <a href='#' onclick="redirect_to_download('{{ status }}', '{{ progress }}')"><h3>{{ status }} ({{ progress }}%)</h3></a>
+    </div>
+    </div>
+  </div>
+</section>
+<!-- End Hero Section -->
+
+<!-- Guide Section -->
+<section 
+  class="py-5" 
+  id="guide"
+>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2 class="mb-4">How to Use getthis.stream</h2>
+        <ol class="fs-5">
+          <li>Copy the URL of the video or livestream you want to download.</li>
+          <li>Paste it into the box above.</li>
+          <li>Click "Download Stream" to start fetching the media.</li>
+          <li>Follow any additional prompts to choose your format.</li>
+          <li>You will be redirected to a download page where, when complete, you can download your file.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Guide Section -->
+
+{% endblock %}

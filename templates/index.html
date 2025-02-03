@@ -1,0 +1,81 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+<script> 
+  function download() {
+    var url = document.getElementById('url').value;
+    
+    fetch('/download', {
+      method: 'POST',
+      body: JSON.stringify({url: url}), 
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })  
+    .then(response => response.json())
+    .then(data => {
+      console.log("Redirecting to: https://getthis.stream/stream/" + data.id);
+      window.location.href = 'https://getthis.stream/stream/' + data.id;
+    })
+    .catch(error => console.error('Error:', error));
+  }
+</script>
+{% endblock %}
+
+{% block content %}
+
+<!-- Hero Section -->
+<section 
+  class="py-5 bg-light text-center" 
+  id="hero"
+>
+  <div class="container">
+    <h1 class="display-5 fw-bold mb-3">Download Your Favorite Streams</h1>
+    <p class="lead mb-4">Paste the URL below to get started</p>
+    <div class="d-flex justify-content-center flex-wrap">
+      <input 
+        id="url"
+        type="text" 
+        class="form-control hero-input me-2" 
+        style="width: 350px;" 
+        placeholder="https://example.com/video-url" 
+        aria-label="Video URL"
+      />
+      <div style="display: inline" class="bg-dark">
+      <button 
+        class="btn btn-primary" 
+        style="opacity: 1; background-color: rgba(255, 0, 0, 0.555); border-color: rgba(255, 0, 0, 0.555);"
+        type="button"
+        onclick="download()"
+      >
+        Download Stream
+      </button>
+    </div>
+    </div>
+  </div>
+</section>
+<!-- End Hero Section -->
+
+<!-- Guide Section -->
+<section 
+  class="py-5" 
+  id="guide"
+>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <h2 class="mb-4">How to Use getthis.stream</h2>
+        <ol class="fs-5">
+          <li>Copy the URL of the video or livestream you want to download.</li>
+          <li>Paste it into the box above.</li>
+          <li>Click "Download Stream" to start fetching the media.</li>
+          <li>Follow any additional prompts to choose your format.</li>
+          <li>You will be redirected to a download page where, when complete, you can download your file.</li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Guide Section -->
+
+{% endblock %}
